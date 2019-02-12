@@ -1,0 +1,1843 @@
+The following information was generated from the 
+Developmental and Reproductive Toxicology Database (DART) on July 28, 2017.
+
+Query: The chemical name bisphenol s was identified.
+The following terms were added:
+4 4  sulphonyldiphenol
+CAS Registry Number: 80-09-1
+
+
+
+1 - DART
+TITLE:
+      Developmental exposure of zebrafish (Danio rerio) to bisphenol-S impairs
+      subsequent reproduction potential and hormonal balance in adults.
+
+AUTHORS:
+      Naderi M
+         Department of Marine Biology, Faculty of Marine Science, Khorramshahr University of Marine Science and Technology, Khorramshahr, Iran. Electronic address: m.naderi15@gmail.com.
+      Wong MY
+         School of Biological Sciences, University of Wollongong, Wollongong, NSW, Australia.
+      Gholami F
+         Department of Fundamental Science, Faculty of Biology, Yasuj Branch, Islamic Azad University, Yasuj, Iran.
+
+SOURCE:
+      Aquat Toxicol. 2014, Mar; 148:195-203. [Aquatic toxicology (Amsterdam,
+      Netherlands)]
+
+ABSTRACT:
+      In the recent years, there has been a growing concern about the production
+      and use of bisphenol-A substitute, namely bisphenol-S (BPS). Due to its
+      novel nature, there have been few studies addressing the ability of BPS to
+      disrupt the endocrine system of animals. In the present study, zebrafish
+      (Danio rerio) embryos were exposed to and reared in various concentrations
+      of BPS (0, 0.1, 1, 10 and 100 &mu;g/l) for 75 days. Then adult males and
+      females were paired in spawning tanks for 7 days in clean water and the
+      consequent effects on fish development, reproduction, plasma vitellogenin
+      (VTG), sex steroids and thyroid hormone levels were investigated as
+      endpoints. After 75 days of exposure, there was a skewed sex ratio in
+      favor of females. The results also showed that body length and weight
+      significantly decreased in males exposed to 100 &mu;g/l of BPS.
+      Gonadosomatic index was significantly reduced in fish at &ge; 10 &mu;g/l.
+      Hepatosomatic index exhibited a significant increase in both male and
+      female fish. At &ge; 1 &mu;g/l of BPS, plasma 17&beta;-estradiol levels
+      were significantly increased in both males and females. However, plasma
+      testosterone showed a significant reduction in males exposed to 10 and 100
+      &mu;g/l of BPS. A significant induction in plasma VTG level was observed
+      in both males and females at &ge; 10 &mu;g/l of BPS. Plasma thyroxine and
+      triiodothyronine levels were significantly decreased at 10 and 100 &mu;g/l
+      of BPS in males, and at 100 &mu;g/l in females. Egg production and sperm
+      count were also significantly decreased in groups received 10 and 100
+      &mu;g/l of BPS. Moreover, once time to hatching and hatching rates were
+      calculated for fertilized eggs the postponed and decreased rates of
+      hatching were observed. Taken together, these results suggest that
+      developmental exposure to low concentrations of BPS has adverse effects on
+      different parts of the endocrine system in zebrafish.
+
+KEYWORDS:
+      Bisphenol-S
+      Reproduction
+      Sex steroid
+      Thyroid hormone
+      Vitellogenin
+      Zebrafish (Danio rerio)
+
+CAS REGISTRY NUMBERS:
+      80-09-1
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1879-1514 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+ENTRY MONTH:
+      201402
+
+TITLE ABBREVIATION:
+      Aquat Toxicol
+
+YEAR OF PUBLICATION:
+      2014
+
+LAST REVISION DATE:
+      20140224
+
+COPYRIGHT INFORMATION:
+      Copyright &copy; 2014 Elsevier B.V. All rights reserved.
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      Netherlands
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Aquatic toxicology (Amsterdam, Netherlands)
+
+ARTICLE DATE:
+      20140121
+
+STAT:
+      MEDLINE
+
+DOCUMENT NUMBER:
+      medline/24508763
+
+2 - DART
+TITLE:
+      Bisphenol S alters embryonic viability, development, gallbladder size, and
+      messenger RNA expression in chicken embryos exposed via egg injection.
+
+AUTHORS:
+      Crump D
+         National Wildlife Research Centre, Environment and Climate Change Canada, Ottawa, Ontario, Canada.
+      Chiu S
+         National Wildlife Research Centre, Environment and Climate Change Canada, Ottawa, Ontario, Canada.
+      Williams KL
+         National Wildlife Research Centre, Environment and Climate Change Canada, Ottawa, Ontario, Canada.
+
+SOURCE:
+      Environ Toxicol Chem. 2016, Jun; 35(6):1541-9. [Environmental toxicology
+      and chemistry]
+
+ABSTRACT:
+      Amid concerns about the toxicological effects and environmental prevalence
+      of bisphenol A (BPA), efforts to find suitable, safer replacement
+      alternatives are essential. Bisphenol S (BPS) is a potential chemical
+      substitute for BPA; however, few studies are available confirming that it
+      has a more desirable ecotoxicological profile. In the present study, BPS
+      was injected into the air cell of unincubated, fertilized chicken embryos
+      at 6 concentrations ranging from 0&thinsp;&mu;g/g to 207&thinsp;&mu;g/g
+      egg to determine effects on pipping success, development, hepatic
+      messenger ribonucleic acid (mRNA) expression, thyroid hormone levels, and
+      circulating bile acid concentrations. Concentrations of BPS increased in a
+      dose-dependent manner in whole-embryo homogenates, and exposure to the
+      highest dose, 207&thinsp;&mu;g/g, resulted in decreased pipping success
+      (estimated median lethal dose&thinsp; =&thinsp;279&thinsp;&mu;g/g; 95%
+      confidence interval&thinsp;=&thinsp;161-486&thinsp;&mu;g/g). Exposure to
+      BPS also reduced growth metrics including embryo mass and tarsus length,
+      whereas the most pronounced phenotypic effect was the
+      concentration-dependent, significant increase in gallbladder size at
+      concentrations &ge;52.8&thinsp;&mu;g/g. These adverse phenotypic outcomes
+      were associated with the modulation of gene targets from a chicken ToxChip
+      polymerase chain reaction array, which are involved with xenobiotic
+      metabolism, lipid homeostasis, bile acid synthesis, and the thyroid
+      hormone pathway. Expression levels of 2 estrogen-responsive genes,
+      apolipoprotein II and vitellogenin, were too low at the sampling time
+      point assessed (i.e., pipping embryos) to quantify changes, and no effects
+      were observed on circulating free thyroxine or bile acid concentrations.
+      The present study provides novel, whole-animal toxicological data for a
+      BPA replacement alternative that is not well characterized. Environ
+      Toxicol Chem 2016;35:1541-1549. &copy; 2015 SETAC. 
+
+KEYWORDS:
+      Avian embryonic development
+      Bisphenol S
+      Lipid metabolism
+      Polymerase chain reaction array
+      mRNA expression
+
+CAS REGISTRY NUMBERS:
+      80-09-1
+      EC 2.4.1.17
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1552-8618 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+ENTRY MONTH:
+      201605
+
+TITLE ABBREVIATION:
+      Environ Toxicol Chem
+
+YEAR OF PUBLICATION:
+      2016
+
+LAST REVISION DATE:
+      20170621
+
+COPYRIGHT INFORMATION:
+      &copy; 2015 SETAC.
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      United States
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Environmental toxicology and chemistry
+
+ARTICLE DATE:
+      20160401
+
+STAT:
+      MEDLINE
+
+DOCUMENT NUMBER:
+      medline/26606162
+
+3 - DART
+TITLE:
+      Obesogen effects after perinatal exposure of 4,4'-sulfonyldiphenol
+      (Bisphenol S) in C57BL/6 mice.
+
+AUTHORS:
+      Ivry Del Moral L
+         Nutrition Physiology and Toxicology Team (NUTox), UMR U866 INSERM, Universit‚ de Bourgogne Franche-Comt‚, AgroSup Dijon, 1 Esplanade Erasme, 21000 Dijon, France.
+      Le Corre      Nutrition Physiology and Toxicology Team ( Team (NUTox), UMR U866 INSERM, Universit‚ de Bourgogne Franche-Comt‚,  Dijon, Dijon, 1 Esplanade Erasme, 21000 Dijon, France. Electronic addresvic.le-corre@u-bourgogne.fr.
+  fr.
+      Poirier H
+         Nutrition Physiology and Toxicology Team (NUTox), UMR U866 INSERM, Universit‚ de Bourgogne Franche-Comt‚, AgroSup Dijon, 1 Esplanade Erasme, 21000 Dijon, France.
+      Niot I
+         Nutrition Physand Toxicology Team (NUTom (NUTox), UMR U866 INSERM, Universit‚ gogne Frogne Franche-Comt‚, Agroon, Dijon, 1 Esplanade Er1000 Dijon, France.
+      Truntzer T
+  r T
+         Plateforme Prot&omique-CLique-CLIPP, 2 rue Ang‚lcoudray,oudray, Bat. M‚decine B3, BP37013, 21070 Dijon Cedex, France.
+      Merlin JF
+  Nutrition Physiology and Toxicology Team (NUTox (NUTox), UMR U866 INSERM, Universit‚ dogne Frogne Franche-Comt‚, AgroSn, Dijon, 1 Esplanade Erasme, 21000 Dijon, France.
+      Rouimi P
+         UMROXALIM (Research Centre ientre in Food Toxicology), Institut National de la Recherche Agronomique (INRA), 180 chemin de Tournefeuille, 31027 Toulouse, France.
+      Besnard P
+         Nutrition Physiology and Toxicology Team (NUTox), UMR U866 INSERM, Universit‚ de Bourgogne Franche-Comt‚, AgroSup Dijon, 1 Esplanade Erasme, 21000 Dijon, France.
+      Rahmani R
+         UMR 1331  (Research Centre in Foodin Food Toxicology), Institut National de la Recherche Agronomique (INRA), Laboratory of Xenobiotic's Cellular and Molecular Toxicology, 400 route des Chappes, BP167, 06903 Sophia-Antipolis Cedex, France.
+      Chagnon MC
+         Nutrition Physiology and Toxicology Team (NUTox), UMR U866 INSERM, Universit‚ gogne Frogne Franche-Comt‚, Agroon, Dijon, 1 Esplanade Erasme, 21000 Dijon, France.
+
+SOURCE:
+      Toxicology May 16; 357-358:11-20. [1-20. [Toxicology]
+
+ABSTRACT:
+      Bisphenol A were removed from consumer products and replaced by chemical
+      substitutes such as Bisphenol S (BPS). Based on their structural
+      similarity, BPS may be obesogen like Bisphenol A in mice. Our objective
+      was to determine the impact of BPS on lipid homeostasis in C57Bl/6 mice
+      after perinatal and chronic exposure. Pregnant mice were exposed to BPS
+      via the drinking water (0.2; 1.5; 50&mu;g/kg bw/d). Treatment began at
+      gestational day 0 and continued in offspring up to 23-weeks old. Then,
+      offspring mice were fed with a standard or high fat diet. The body weight,
+      food consumption, fat mass and energy expenditure were measured. A lipid
+      load test was performed to check the postprandial triglyceridemia. Plasma
+      parameters and mRNA gene expression in adipose tissues were also analysed.
+      BPS induced overweight in male mice offspring fed with a HFD at the two
+      highest doses. There was no change in food intake and energy expenditure.
+      The overweight was correlated to the fat mass, hyperinsulinemia and
+      hyperleptinemia. The plasma triglyceride clearance was significantly
+      increased with BPS and tyloxapol(&reg;) (triglyceride clearance inhibitor)
+      reversed this phenomenon. BPS induced alteration in mRNA expression of
+      marker genes involved in adipose tissue homeostasis: hormone sensitive
+      lipase, PPAR&gamma;, insulin receptor, SOCS3 and adiponectin. This is the
+      first time that BPS is described as obesogenic at low doses and after
+      perinatal and chronic exposure in male mice. BPS potentiated the obesity
+      induced by a HFD by inducing the lipid storage linked to faster lipid
+      plasma clearance. 
+
+KEYWORDS:
+      Bisphenol S
+      Food contaminant
+      Low dose
+      Obesogen
+      Perinatal exposure
+
+CAS REGISTRY NUMBERS:
+      30IQX730WE
+      80-09-1
+      Y27PUL9H56
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1879-3185 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+ENTRY MONTH:
+      201606
+
+TITLE ABBREVIATION:
+      Toxicology
+
+YEAR OF PUBLICATION:
+      2016
+
+LAST REVISION DATE:
+      20170510
+
+COPYRIGHT INFORMATION:
+      Copyright &copy; 2016 Elsevier Ireland Ltd. All rights reserved.
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      Ireland
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Toxicology
+
+ARTICLE DATE:
+      20160527
+
+STAT:
+      MEDLINE
+
+DOCUMENT NUMBER:
+      medline/27241191
+
+4 - DART
+TITLE:
+      Effect of bisphenol S exposure on male reproductive system of rats: A
+      histological and biochemical study.
+
+AUTHORS:
+      Ullah H
+         Reproductive Physiology Laboratory, Department of Animal Sciences, Quaid-i-Azam University, Islamabad, Pakistan. Electronic address: hizbullahwazir@gmail.com.
+      Jahan S
+         Reproductive Physiology Laboratory, Department of Animal Sciences, Quaid-i-Azam University, Islamabad, Pakistan. Electronic address: drsarwatjahan@gmail.com.
+      Ain QU
+         Reproductive Physiology Laboratory, Department of Animal Sciences, Quaid-i-Azam University, Islamabad, Pakistan. Electronic address: ainy_choudhary@yahoo.com.
+      Shaheen G
+         Reproductive Physiology Laboratory, Department of Animal Sciences, Quaid-i-Azam University, Islamabad, Pakistan. Electronic address: ghazalashaheen1438@gmail.com.
+      Ahsan N
+         Reproductive Physiology Laboratory, Department of Animal Sciences, Quaid-i-Azam University, Islamabad, Pakistan. Electronic address: nidaahsan33@gmail.com.
+
+SOURCE:
+      Chemosphere. 2016, Jun; 152:383-91. [Chemosphere]
+
+ABSTRACT:
+      Bisphenol S (BPS) has been introduced into the industry as a safer
+      alternative to Bisphenol A. BPS has been detected in human urine sample
+      and induces oxidative stress in vitro and exhibit endocrine disrupting
+      potential in vivo. However, data regarding effect of BPS in mammals is
+      very limited and only a few studies have been carried out. In the present
+      study, direct effect of BPS exposure on oxidative stress and testosterone
+      concentration in rat testis was evaluated in vitro. BPS exposure not only
+      induced oxidative stress but also enhanced antioxidant enzymes activity in
+      the tissue. Based on in vitro results, in vivo study was carried out. In
+      the in vivo sub-chronic study, adult male rats were exposed to different
+      doses of BPS (1-50 &mu;g/kg day). Significant increase in the testicular
+      reactive oxygen species and lipid peroxidation were observed in the higher
+      doses tested while antioxidant enzymes activity and protein content were
+      significantly reduced. Plasma and intra-testicular testosterone
+      concentrations were reduced in groups treated with higher doses of BPS.
+      Testicular morphology revealed thin seminiferous epithelium in the treated
+      groups as compared to the control. In the epididymis, area of the tubular
+      epithelium showed significant reduction and empty lumen were observed in
+      the groups treated with higher concentrations of BPS. The present data
+      suggest that BPS has the potential to induce oxidative stress in the
+      testis and might have effect on spermatogenesis in rats.
+
+KEYWORDS:
+      Antioxidant enzymes
+      Bisphenol S
+      Histology
+      Oxidative stress
+      Testosterone
+
+CAS REGISTRY NUMBERS:
+      3XMK78S47O
+      80-09-1
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1879-1298 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+      Research Support, Non-U.S. Gov't
+
+ENTRY MONTH:
+      201604
+
+TITLE ABBREVIATION:
+      Chemosphere
+
+YEAR OF PUBLICATION:
+      2016
+
+LAST REVISION DATE:
+      20161230
+
+COPYRIGHT INFORMATION:
+      Copyright &copy; 2016 Elsevier Ltd. All rights reserved.
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      England
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Chemosphere
+
+ARTICLE DATE:
+      20160317
+
+STAT:
+      MEDLINE
+
+DOCUMENT NUMBER:
+      medline/26994432
+
+5 - DART
+TITLE:
+      A new chapter in the bisphenol A story: bisphenol S and bisphenol F are
+      not safe alternatives to this compound.
+
+AUTHORS:
+      Eladak S
+         Unit of Genetic Stability, Stem Cells, and Radiation, Laboratory of Development of the Gonads, Universit‚ Paris Diderot, Sorbonne Paris Cit‚, Fontx-Ry-aux-Roses, France; Criat … ie Atomie Atomique, FontenaFontenay-aux-Roses, France; InNational de la Sant‚ etRecher Recherche Merche M‚dicaleeacnit‚ 967, Fontenay-aux-Roses, France.
+      Grisin T
+         Unit oic StabStem Cells, Cells, and Radiation, LaboratLaboratory of Development of the Gonads, Universit‚ Parrot, derot, Sorbonne Paris Cit‚,ay-aux-Ry-aux-Roses, France; Commissariat … l'En, Foque, Fontenay-aux-Roses, France; Institut Natiut National de la Sant‚la Rech&eche M‚dicute;dUcale, Unit‚ 967nay-atenay-aux-Rosnce.
+      Moison D
+         Unit of Get of Genetic Stability, Stem Cells, aation, Laion, Laboratory of Development of the Gonads, Universit‚ Paris Diderot, Sorbonne Paris Cit‚, Fontenay-aux-Roses, France; Commissariat … l'Energie Atomique, Fontenay-aux-Roses,  Institut National de la  de la Sant‚ e Recher Recherche M&eacute, Unit&e Unit‚ 967, Foatenay-aux-Roses, France.
+      Guerquin       Un     Unit of Genetic Stability, Stem Cells, and Radiation, Laboratory of Development of the Gonads, Universit‚ Paris Diderot, Sorbonne Paris Cit‚, Fontenay-aux-Roses, France; Commissagrave; l'Energie Atomique, Fontenay-aux-Ry-aux-Roses, France; Institut l de la Sde la Sant‚ et de la Recherche M‚dicaleeacnit‚ 967, Fontenay-aux-Roses, France.
+      N'Tumba-Byn T
+   nit of Geneticity, Stem C Stem Cells, and Radiation, Laion, Laboratory of Development of the Gonads, Universit‚ Paris Diderot, Sorbonne Paris Cit‚, Fontenay-aux-Roses, France; Commissariat … le Atomique, Fontenay-aux-ay-aux-Roses, France; Institut National de la Sant&eat de la Recherche M‚dicale, Unit&e Unit‚ 967, Foatenay-aux-Roses, France.
+      Pozzi-Gaudin S
+         Service de Gyn&cologie-Obst‚trique et M&e et M‚decine ep la Reproduction, H“pital A. B‚clŠre, Universit‚ Paris Sud, Clamarte.
+       Benachi A
+         Service de Gyn&eacyn‚cologieacbst‚trique et M&decine decine de la Reproduction, H“pital A. B‚clŠrersit‚ PariClamd, ClamartClamart, France.
+      Livera G
+         UnieneticStabilim Cells, and Radiad Radiation, Ltion, Laboratory of Development of the Gonads, Universit‚ Paris Diderot, Sorbonne Paris Cit‚, Fontenay-aux-Roses, France; Commissariat … l'Energie Atomiqtenay-aux-Roses, France; Institut National de lal de la Sant‚ a he M&e he M‚dinit&, Unit&, Unit‚ 967, Fontenay-aux-Roses, France  Rouilre V
+     
+         Unit of Genetic Static Stability, Stem Cells, andion, Labon, Laboratory of Development of the Gonads, Universit‚ iderot, derot, Sorbonne Paris Cit‚, Fontenay-aux-Roses, FCommissariat … l'Energie Atomique,omique, Fontenay-aux-Roses, Frnstitut National de la Sae la Sant‚ et echer Recherche M‚dicale, Unit‚ ntenay-atenay-aux-Roses, France.
+      Habert R
+  Unit of Genebility, Stem Cells, and Radand Radiation,iation, Laboratory of Development of the Gonads, Universit‚ Paris Diderot, Sorbonne Paris Cit‚, Fontenay-aux-Roses, France; Commissariat &agravergie Atomique, Fontenay-atenay-aux-Roses, France; Institut National de la Sant‚ et de lr Recherche M‚dinit&eacnit‚ 967,ay-atenay-aux-Roses, France. Electronic address: rene.habert@cea.fr.
+
+SOURCE:
+      Fertil Steril. 2015, Jan;5, Jan; 103(1):11-21. [Fertility and sterility]
+
+ABSTRACT:
+      Bisphenol A (BPA) is a widely studied typical endocrine-disrupting
+      chemical, and one of the major new issues is the safe replacement of this
+      commonly used compound. Bisphenol S (BPS) and bisphenol F (BPF) are
+      already or are planned to be used as BPA alternatives. With the use of a
+      culture system that we developed (fetal testis assay [FeTA]), we
+      previously showed that 10 nmol/L BPA reduces basal testosterone secretion
+      of human fetal testis explants and that the susceptibility to BPA is at
+      least 100-fold lower in rat and mouse fetal testes. Here, we show that
+      addition of LH in the FeTA system considerably enhances BPA minimum
+      effective concentration in mouse and human but not in rat fetal testes.
+      Then, using the FeTA system without LH (the experimental conditions in
+      which mouse and human fetal testes are most sensitive to BPA), we found
+      that, as for BPA, 10 nmol/L BPS or BPF is sufficient to decrease basal
+      testosterone secretion by human fetal testes with often nonmonotonic
+      dose-response curves. In fetal mouse testes, the dose-response curves were
+      mostly monotonic and the minimum effective concentrations were 1,000
+      nmol/L for BPA and BPF and 100 nmol/L for BPS. Finally, 10,000 nmol/L BPA,
+      BPS, or BPF reduced Insl3 expression in cultured mouse fetal testes. This
+      is the first report describing BPS and BPF adverse effects on a
+      physiologic function in humans and rodents.
+
+KEYWORDS:
+      BPA
+      BPF
+      BPS
+      Bisphenol A
+      Insl3
+      Leydig cells
+      bisphenol F
+      bisphenol S
+      endocrine disruptors
+      environmental health
+      fetus
+      human
+      organotypic culture
+      species differences
+      testis
+      testosterone
+
+CAS REGISTRY NUMBERS:
+      80-09-1
+      MLT3645I99
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1556-5653 (Electronic)
+
+PUBLICATION TYPES:
+      Comparative Study
+
+      Journal Article
+
+      Research Support, Non-U.S. Gov't
+
+      Review
+
+ENTRY MONTH:
+      201501
+
+TITLE ABBREVIATION:
+      Fertil Steril
+
+YEAR OF PUBLICATION:
+      2015
+
+LAST REVISION DATE:
+      20150101
+
+COPYRIGHT INFORMATION:
+      Copyright &copy; 2015 The Authors. Published by Elsevier Inc. All rights
+      reserved.
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      United States
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Fertility and sterility
+
+ARTICLE DATE:
+      20141202
+
+STAT:
+      MEDLINE
+
+DOCUMENT NUMBER:
+      medline/25475787
+
+6 - DART
+TITLE:
+      Bisphenol S (BPS) Alters Maternal Behavior and Brain in Mice Exposed
+      During Pregnancy/Lactation and Their Daughters.
+
+AUTHORS:
+      Catanese MC
+         Graduate Program in Neuroscience and Behavior, University of Massachusetts-Amherst, Amherst, Massachusetts 01003.
+      Vandenberg LN
+         Department of Environmental Health Sciences, School of Public Health and Health Sciences, University of Massachusetts-Amherst, Amherst, Massachusetts 01003.
+
+SOURCE:
+      Endocrinology. 2017, 03 01; 158(3):516-530. [Endocrinology]
+
+ABSTRACT:
+      Estrogenic endocrine disrupting chemicals have been shown to disrupt
+      maternal behavior in rodents. We investigated the effects of an emerging
+      xenoestrogen, bisphenol S (BPS), on maternal behavior and brain in CD-1
+      mice exposed during pregnancy and lactation (F0 generation) and in female
+      offspring exposed during gestation and perinatal development (F1
+      generation). We observed different effects in F0 and F1 dams for a number
+      of components of maternal behavior, including time on the nest, time spent
+      on nest building, latency to retrieve pups, and latency to retrieve the
+      entire litter. We also characterized expression of estrogen receptor
+      &alpha; in the medial preoptic area (MPOA) and quantified tyrosine
+      hydroxylase immunoreactive cells in the ventral tegmental area, 2 brain
+      regions critical for maternal care. BPS-treated females in the F0
+      generation had a statistically significant increase in estrogen receptor
+      &alpha; expression in the caudal subregion of the central MPOA in a
+      dose-dependent manner. In contrast, there were no statistically
+      significant effects of BPS on the MPOA in F1 dams or the ventral tegmental
+      area in either generation. This work demonstrates that BPS affects
+      maternal behavior and brain with outcomes depending on generation, dose,
+      and postpartum period. Many studies examining effects of endocrine
+      disrupting chemicals view the mother as a means by which offspring can be
+      exposed during critical periods of development. Here, we demonstrate that
+      pregnancy and lactation are vulnerable periods for the mother. We also
+      show that developmental BPS exposure alters maternal behavior later in
+      adulthood. Both findings have potential public health implications.
+
+CAS REGISTRY NUMBERS:
+      80-09-1
+      EC 1.14.16.2
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1945-7170 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+ENTRY MONTH:
+      201612
+
+TITLE ABBREVIATION:
+      Endocrinology
+
+YEAR OF PUBLICATION:
+      2017
+
+LAST REVISION DATE:
+      20170714
+
+COPYRIGHT INFORMATION:
+      Copyright &copy; 2017 by the Endocrine Society.
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      United States
+
+CITATION SUBSET:
+      AIM
+
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Endocrinology
+
+STAT:
+      MEDLINE
+
+REFERENCES:
+      Cites: Psychiatr Clin North Am. 2006 Jun;29(2):371-90 (medline /16650714)
+
+      Cites: Horm Behav. 2011 Mar;59(3):296-305 (medline /21029734)
+
+      Cites: Physiol Behav. 2005 Jun 2;85(2):83-91 (medline /15878184)
+
+      Cites: Neurotoxicol Teratol. 2014 Jan-Feb;41:16-26 (medline /24269606)
+
+      Cites: PLoS One. 2015 Jun 03;10(6):e0126284 (medline /26039462)
+
+      Cites: Reprod Toxicol. 2007 Aug-Sep;24(2):139-77 (medline /17825522)
+
+      Cites: Endocrinology. 2010 May;151(5):2276-86 (medline /20228171)
+
+      Cites: Psychoneuroendocrinology. 1994;19(5-7):543-52 (medline /7938353)
+
+      Cites: Endocrinology. 1992 Jul;131(1):381-8 (medline /1612018)
+
+      Cites: J Neurosci Methods. 2014 Aug 30;234:2-12 (medline /24632384)
+
+      Cites: Annu Rev Neurosci. 1984;7:413-42 (medline /6370082)
+
+      Cites: Proc Natl Acad Sci U S A. 2001 Feb 13;98(4):1952-7 (medline
+      /11172057)
+
+      Cites: Eur J Neurosci. 2015 Mar;41(6):760-72 (medline /25572002)
+
+      Cites: Environ Health Perspect. 1995 Oct;103 Suppl 7:41-50 (medline
+      /8593873)
+
+      Cites: Brain Res Bull. 2005 Apr 15;65(3):255-60 (medline /15811589)
+
+      Cites: Endocrinology. 2006 Jun;147(6):2909-15 (medline /16513834)
+
+      Cites: Environ Sci Technol. 2015 Oct 6;49(19):11834-9 (medline /26360019)
+
+      Cites: Reprod Toxicol. 2007 Aug-Sep;24(2):131-8 (medline /17768031)
+
+      Cites: Environ Sci Technol. 2012 Jun 19;46(12):6860-6 (medline /22620267)
+
+      Cites: Physiol Behav. 1991 Dec;50(6):1263-7 (medline /1798786)
+
+      Cites: Endocrinology. 1959 Sep;65:369-82 (medline /14432658)
+
+      Cites: J Comp Physiol Psychol. 1977 Feb;91(1):146-64 (medline /402400)
+
+      Cites: Environ Sci Technol. 2012 Jun 19;46(12):6515-22 (medline /22591511)
+
+      Cites: Reprod Toxicol. 2007 Aug-Sep;24(2):199-224 (medline /17683900)
+
+      Cites: J Neuroendocrinol. 2011 Apr;23(4):345-54 (medline /21276101)
+
+      Cites: Curr Opin Pharmacol. 2008 Dec;8(6):735-9 (medline /18644464)
+
+      Cites: Reprod Toxicol. 2008 Nov-Dec;26(3-4):210-9 (medline /18938238)
+
+      Cites: J Am Assoc Lab Anim Sci. 2008 Nov;47(6):25-31 (medline /19049249)
+
+      Cites: Brain Res. 1980 Aug 4;194(2):471-8 (medline /7388622)
+
+      Cites: Environ Health Perspect. 2007 Nov;115(11):1623-30 (medline
+      /18007995)
+
+      Cites: Peptides. 1984;5 Suppl 1:227-39 (medline /6384952)
+
+      Cites: Physiol Behav. 2006 Oct 30;89(3):320-8 (medline /16842828)
+
+      Cites: PLoS One. 2012;7(12):e51385 (medline /23240018)
+
+      Cites: Endocrinology. 2006 Jun;147(6 Suppl):S56-69 (medline /16690810)
+
+      Cites: Endocrinology. 1998 Dec;139(12):5070-81 (medline /9832446)
+
+      Cites: Behav Brain Res. 2011 Aug 1;221(1):55-62 (medline /21316394)
+
+      Cites: J Neurosci. 1995 Jan;15(1 Pt 1):110-6 (medline /7823121)
+
+      Cites: PLoS One. 2016 Mar 23;11(3):e0150728 (medline /27007402)
+
+      Cites: Endocrinology. 2016 Jul;157(7):2586-94 (medline /27175970)
+
+      Cites: Physiol Behav. 2008 Mar 18;93(4-5):1061-70 (medline /18313700)
+
+      Cites: Behav Brain Res. 2001 Nov 1;125(1-2):141-9 (medline /11682105)
+
+      Cites: Neuroendocrinology. 1989 Sep;50(3):248-58 (medline /2797382)
+
+      Cites: Horm Behav. 1990 Jun;24(2):232-55 (medline /2365302)
+
+      Cites: J Histochem Cytochem. 2008 Apr;56(4):313-28 (medline /18158282)
+
+      Cites: Environ Toxicol Pharmacol. 2005 Jan;19(1):121-30 (medline
+      /21783468)
+
+      Cites: Endocrinology. 2013 Oct;154(10):3836-46 (medline /24025225)
+
+      Cites: Horm Behav. 2016 Jan;77:72-85 (medline /26296592)
+
+      Cites: PLoS One. 2013 Sep 10;8(9):e75037 (medline /24040381)
+
+      Cites: Endocrinology. 2015 May;156(5):1659-70 (medline /25830705)
+
+      Cites: Endocr Rev. 2009 Feb;30(1):75-95 (medline /19074586)
+
+      Cites: Environ Res. 2015 Oct;142:281-7 (medline /26186136)
+
+      Cites: J Agric Food Chem. 2013 May 15;61(19):4655-62 (medline /23614805)
+
+      Cites: Brain Res. 1989 Jun 5;489(1):101-12 (medline /2743143)
+
+      Cites: Neurosci Biobehav Rev. 2005;29(8):1335-46 (medline /16095695)
+
+      Cites: Proc Natl Acad Sci U S A. 2013 Jun 11;110(24):9956-61 (medline
+      /23716699)
+
+      Cites: Front Neuroendocrinol. 2015 Jan;36:178-96 (medline /25500107)
+
+      Cites: Curr Opin Behav Sci. 2016 Feb;7:69-75 (medline /27019862)
+
+      Cites: Toxicol Appl Pharmacol. 2013 Oct 1;272(1):127-36 (medline
+      /23714657)
+
+      Cites: Neuroscience. 2012 Jun 1;211:83-106 (medline /21925243)
+
+      Cites: Biol Psychiatry. 2010 Aug 15;68(4):314-9 (medline /20674602)
+
+      Cites: Behav Genet. 2010 Mar;40(2):220-32 (medline /20130977)
+
+      Cites: Horm Behav. 2010 Nov;58(5):754-61 (medline /20691692)
+
+      Cites: J Neuroendocrinol. 2011 Nov;23(11):1020-35 (medline /21815954)
+
+      Cites: Physiol Behav. 1973 Jan;10(1):153-5 (medline /4735326)
+
+      Cites: Brain Res Mol Brain Res. 1995 Oct;33(1):127-35 (medline /8774954)
+
+      Cites: Neurosci Lett. 2001 Sep 7;310(1):49-52 (medline /11524155)
+
+      Cites: Front Neuroendocrinol. 2010 Oct;31(4):440-51 (medline /20685293)
+
+      Cites: Reprod Toxicol. 2007 Apr-May;23(3):317-25 (medline /17011746)
+
+      Cites: Arch Environ Contam Toxicol. 2014 Jul;67(1):50-9 (medline
+      /24639116)
+
+      Cites: Vitam Horm. 2014;94:129-65 (medline /24388189)
+
+      Cites: Horm Behav. 2013 Apr;63(4):598-605 (medline /23470777)
+
+      Cites: MLO Med Lab Obs. 2015 Dec;47(12):18-9, 21 (medline /26742265)
+
+      Cites: Environ Health Perspect. 2010 Sep;118(9):1243-50 (medline
+      /20488778)
+
+      Cites: Environ Health Perspect. 2013 Mar;121(3):352-8 (medline /23458715)
+
+      Cites: J Clin Psychiatry. 2004;65 Suppl 1:18-28 (medline /14728093)
+
+      Cites: Biol Psychiatry. 2001 Jun 15;49(12):1023-39 (medline /11430844)
+
+      Cites: Nat Rev Endocrinol. 2011 Apr;7(4):197-207 (medline /21263448)
+
+      Cites: Anim Behav. 1973 May;21(2):205-35 (medline /4578750)
+
+      Cites: J Comp Neurol. 1986 May 15;247(3):364-82 (medline /3722443)
+
+      Cites: Horm Behav. 1985 Dec;19(4):454-68 (medline /4085998)
+
+      Cites: J Comp Neurol. 2013 May 1;521(7):1633-63 (medline /23124836)
+
+      Cites: Brain Res Mol Brain Res. 1996 Dec;42(2):328-36 (medline /9013790)
+
+      Cites: Environ Health Perspect. 2002 Jun;110 Suppl 3:415-22 (medline
+      /12060838)
+
+      Cites: J Endocrinol. 2007 Jul;194(1):201-12 (medline /17592034)
+
+      Cites: Science. 1967 Jun 16;156(3781):1512-4 (medline /5611028)
+
+      Cites: Eur J Pharmacol. 2003 Feb 28;463(1-3):3-33 (medline /12600700)
+
+      Cites: Neuroendocrinology. 1995 Mar;61(3):276-83 (medline /7898632)
+
+      Cites: Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 2011
+      Dec;28(12):1763-8 (medline /21988286)
+
+      Cites: J Comp Physiol Psychol. 1975 Sep;89(7):722-32 (medline /1236875)
+
+      Cites: Front Neuroendocrinol. 2009 Jan;30(1):46-64 (medline /19022278)
+
+      Cites: J Child Psychol Psychiatry. 2011 Apr;52(4):368-97 (medline
+      /20925656)
+
+      Cites: Environ Health Perspect. 1993 Oct;101(5):378-84 (medline /8080506)
+
+      Cites: Horm Behav. 1986 Sep;20(3):354-63 (medline /3770657)
+
+      Cites: Proc Natl Acad Sci U S A. 2012 Oct 2;109(40):16324-9 (medline
+      /22988120)
+
+      Cites: Neuropsychiatr Dis Treat. 2015 Aug 04;11:1939-55 (medline
+      /26346234)
+
+      Cites: Behav Neural Biol. 1990 Mar;53(2):284-90 (medline /2331237)
+
+      Cites: Environ Health. 2015 Aug 05;14:64 (medline /26242739)
+
+DOCUMENT NUMBER:
+      medline/28005399
+
+7 - DART
+TITLE:
+      Exposure to the BPA-Substitute Bisphenol S Causes Unique Alterations of
+      Germline Function.
+
+AUTHORS:
+      Chen Y
+         Molecular Toxicology Inter-departmental Program, University of California, Los Angeles, Los Angeles, California, United States of America.
+      Shu L
+         Department of Integrative Biology and Physiology, University of California, Los Angeles, Los Angeles, California, United States of America.
+      Qiu Z
+         Department of Environmental Health Sciences, University of California, Los Angeles, Los Angeles, California, United States of America.
+      Lee DY
+         Institute for Society and Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.
+      Settle SJ
+         Institute for Society and Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.
+      Que Hee S
+         Department of Environmental Health Sciences, University of California, Los Angeles, Los Angeles, California, United States of America.
+      Telesca D
+         Department of Biostatistics, University of California, Los Angeles, Los Angeles, California, United States of America.
+      Yang X
+         Department of Integrative Biology and Physiology, University of California, Los Angeles, Los Angeles, California, United States of America.
+      Allard P
+         Institute for Society and Genetics, University of California, Los Angeles, Los Angeles, California, United States of America.
+
+SOURCE:
+      PLoS Genet. 2016, 07; 12(7):e1006223. [PLoS genetics]
+
+ABSTRACT:
+      Concerns about the safety of Bisphenol A, a chemical found in plastics,
+      receipts, food packaging and more, have led to its replacement with
+      substitutes now found in a multitude of consumer products. However,
+      several popular BPA-free alternatives, such as Bisphenol S, share a high
+      degree of structural similarity with BPA, suggesting that these
+      substitutes may disrupt similar developmental and reproductive pathways.
+      We compared the effects of BPA and BPS on germline and reproductive
+      functions using the genetic model system Caenorhabditis elegans. We found
+      that, similarly to BPA, BPS caused severe reproductive defects including
+      germline apoptosis and embryonic lethality. However, meiotic
+      recombination, targeted gene expression, whole transcriptome and ontology
+      analyses as well as ToxCast data mining all indicate that these effects
+      are partly achieved via mechanisms distinct from BPAs. These findings
+      therefore raise new concerns about the safety of BPA alternatives and the
+      risk associated with human exposure to mixtures.
+
+CAS REGISTRY NUMBERS:
+      80-09-1
+      MLT3645I99
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1553-7404 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+      Research Support, N.I.H., Extramural
+
+      Research Support, Non-U.S. Gov't
+
+ENTRY MONTH:
+      201607
+
+TITLE ABBREVIATION:
+      PLoS Genet
+
+YEAR OF PUBLICATION:
+      2016
+
+SECONDARY SOURCE ID:
+      Full text: <a href='https://www.ncbi.nlm.nih.gov/pmc/?term=4966967'
+      target=new>PMC4966967
+
+LAST REVISION DATE:
+      20170322
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      United States
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      PLoS genetics
+
+ARTICLE DATE:
+      20160729
+
+STAT:
+      MEDLINE
+
+REFERENCES:
+      Cites: Environ Sci Technol. 2013 Aug 6;47(15):8793-800 (medline /23806087)
+
+      Cites: Cell Cycle. 2004 Sep;3(9):1196-200 (medline /15326393)
+
+      Cites: Genome Biol. 2009;10(11):R134 (medline /19930550)
+
+      Cites: Curr Biol. 2003 Apr 1;13(7):546-53 (medline /12676084)
+
+      Cites: Genes Dev. 2001 Jul 1;15(13):1674-87 (medline /11445542)
+
+      Cites: WormBook. 2005 Jun 25;:1-9 (medline /18023124)
+
+      Cites: Development. 2006 Feb;133(4):697-709 (medline /16421191)
+
+      Cites: PLoS Genet. 2007 Jan 12;3(1):e5 (medline /17222059)
+
+      Cites: Science. 2001 Mar 16;291(5511):2144-7 (medline /11251118)
+
+      Cites: Reprod Toxicol. 2007 Aug-Sep;24(2):139-77 (medline /17825522)
+
+      Cites: Mol Cell Endocrinol. 2006 Jul 25;254-255:179-86 (medline /16781053)
+
+      Cites: Environ Sci Technol. 2012 Jun 19;46(12):6860-6 (medline /22620267)
+
+      Cites: Genetics. 2011 Oct;189(2):411-21 (medline /21840865)
+
+      Cites: Genome Biol. 2013 Apr 25;14(4):R36 (medline /23618408)
+
+      Cites: Reprod Toxicol. 2007 Aug-Sep;24(2):199-224 (medline /17683900)
+
+      Cites: Genetics. 1974 May;77(1):71-94 (medline /4366476)
+
+      Cites: J Cell Biol. 2006 Mar 27;172(7):999-1008 (medline /16549501)
+
+      Cites: Genes Dev. 2002 Sep 15;16(18):2428-42 (medline /12231631)
+
+      Cites: Endocrinology. 2006 Jun;147(6 Suppl):S56-69 (medline /16690810)
+
+      Cites: Reprod Toxicol. 2007 Aug-Sep;24(2):178-98 (medline /17628395)
+
+      Cites: J Vet Med Sci. 2003 Aug;65(8):881-5 (medline /12951420)
+
+      Cites: Genes Dev. 2008 Oct 15;22(20):2869-85 (medline /18923084)
+
+      Cites: Mutat Res. 2005 Feb 15;570(1):71-80 (medline /15680404)
+
+      Cites: Nat Biotechnol. 2013 Jan;31(1):46-53 (medline /23222703)
+
+      Cites: Toxicol Sci. 2008 Nov;106(1):5-28 (medline /18566021)
+
+      Cites: Science. 2005 Dec 9;310(5754):1683-6 (medline /16339446)
+
+      Cites: Environ Health Perspect. 2010 Aug;118(8):1051-4 (medline /20444668)
+
+      Cites: Proc Natl Acad Sci U S A. 2003 Aug 5;100(16):9440-5 (medline
+      /12883005)
+
+      Cites: WormBook. 2008 Sep 04;:1-20 (medline /18781708)
+
+      Cites: Environ Health Perspect. 2005 Aug;113(8):926-33 (medline /16079060)
+
+      Cites: Environ Health Perspect. 2002 Nov;110(11):A703-7 (medline
+      /12417499)
+
+      Cites: Trends Genet. 1995 Jan;11(1):27-31 (medline /7900192)
+
+      Cites: PLoS Biol. 2003 Oct;1(1):E12 (medline /14551910)
+
+      Cites: Chromosome Res. 2007;15(5):607-21 (medline /17674149)
+
+      Cites: Proc Natl Acad Sci U S A. 2015 Feb 3;112(5):1475-80 (medline
+      /25583509)
+
+      Cites: Adv Exp Med Biol. 2013;757:249-76 (medline /22872480)
+
+      Cites: Genetics. 2015 Jun;200(2):495-504 (medline /25819793)
+
+      Cites: J Steroid Biochem Mol Biol. 2011 Oct;127(1-2):27-34 (medline
+      /21605673)
+
+      Cites: Environ Health Perspect. 2016 Apr;124(4):437-44 (medline /26309242)
+
+      Cites: Environ Health Perspect. 2010 Aug;118(8):1055-70 (medline
+      /20338858)
+
+      Cites: Endocrinology. 2016 Feb;157(2):636-47 (medline /26653335)
+
+      Cites: EMBO J. 2005 Dec 21;24(24):4345-55 (medline /16319925)
+
+      Cites: Cell Cycle. 2011 Jan 15;10 (2):183-4 (medline /21228622)
+
+      Cites: Proc Natl Acad Sci U S A. 2010 Nov 23;107(47):20405-10 (medline
+      /21059909)
+
+      Cites: Curr Biol. 2006 Jul 11;16(13):1344-50 (medline /16824923)
+
+      Cites: Toxicol Sci. 2007 Jan;95(1):5-12 (medline /16963515)
+
+      Cites: J Cell Sci. 2010 Mar 15;123(Pt 6):993-1000 (medline /20200231)
+
+      Cites: Sci Total Environ. 2012 Oct 1;435-436:30-3 (medline /22846760)
+
+      Cites: Proc Natl Acad Sci U S A. 2012 Oct 23;109(43):17525-30 (medline
+      /23012422)
+
+      Cites: Environ Sci Technol. 2011 Aug 15;45(16):6761-8 (medline /21744851)
+
+      Cites: Mol Cell. 2000 Mar;5(3):435-43 (medline /10882129)
+
+      Cites: Cell. 1998 Aug 7;94(3):387-98 (medline /9708740)
+
+      Cites: Methods Mol Biol. 2004;280:257-74 (medline /15187259)
+
+      Cites: Environ Health Perspect. 2013 Jun;121(6):717-24 (medline /23603051)
+
+      Cites: Genes Dev. 2003 Jan 15;17(2):187-200 (medline /12533508)
+
+      Cites: Aquat Toxicol. 2014 Mar;148:195-203 (medline /24508763)
+
+DOCUMENT NUMBER:
+      medline/27472198
+
+8 - DART
+TITLE:
+      Low-dose exposure to bisphenol A and replacement bisphenol S induces
+      precocious hypothalamic neurogenesis in embryonic zebrafish.
+
+AUTHORS:
+      Kinch CD
+         Departments of Biological Sciences and Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, AB, Canada T2N 4N1.
+      Ibhazehiebo K
+         Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, AB, Canada T2N 4N1.
+      Jeong JH
+         Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, AB, Canada T2N 4N1.
+      Habibi HR
+         Departments of Biological Sciences and.
+      Kurrasch DM
+         Medical Genetics and Alberta Children's Hospital Research Institute, University of Calgary, Calgary, AB, Canada T2N 4N1 kurrasch@ucalgary.ca.
+
+SOURCE:
+      Proc Natl Acad Sci U S A. 2015, Feb 03; 112(5):1475-80. [Proceedings of
+      the National Academy of Sciences of the United States of America]
+
+ABSTRACT:
+      Bisphenol A (BPA), a ubiquitous endocrine disruptor that is present in
+      many household products, has been linked to obesity, cancer, and, most
+      relevant here, childhood neurological disorders such as anxiety and
+      hyperactivity. However, how BPA exposure translates into these
+      neurodevelopmental disorders remains poorly understood. Here, we used
+      zebrafish to link BPA mechanistically to disease etiology. Strikingly,
+      treatment of embryonic zebrafish with very low-dose BPA (0.0068 &mu;M,
+      1,000-fold lower than the accepted human daily exposure) and bisphenol S
+      (BPS), a common analog used in BPA-free products, resulted in 180% and
+      240% increases, respectively, in neuronal birth (neurogenesis) within the
+      hypothalamus, a highly conserved brain region involved in hyperactivity.
+      Furthermore, restricted BPA/BPS exposure specifically during the
+      neurogenic window caused later hyperactive behaviors in zebrafish larvae.
+      Unexpectedly, we show that BPA-mediated precocious neurogenesis and the
+      concomitant behavioral phenotype were not dependent on predicted estrogen
+      receptors but relied on androgen receptor-mediated up-regulation of
+      aromatase. Although human epidemiological results are still emerging, an
+      association between high maternal urinary BPA during gestation and
+      hyperactivity and other behavioral disturbances in the child has been
+      suggested. Our studies here provide mechanistic support that the
+      neurogenic period indeed may be a window of vulnerability and uncovers
+      previously unexplored avenues of research into how endocrine disruptors
+      might perturb early brain development. Furthermore, our results show that
+      BPA-free products are not necessarily safer and support the removal of all
+      bisphenols from consumer merchandise. 
+
+KEYWORDS:
+      androgen receptor
+      aromatase
+      endocrine disruption
+      hyperactivity
+
+CAS REGISTRY NUMBERS:
+      80-09-1
+      MLT3645I99
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1091-6490 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+      Research Support, Non-U.S. Gov't
+
+ENTRY MONTH:
+      201502
+
+TITLE ABBREVIATION:
+      Proc Natl Acad Sci U S A
+
+YEAR OF PUBLICATION:
+      2015
+
+SECONDARY SOURCE ID:
+      Full text: <a href='https://www.ncbi.nlm.nih.gov/pmc/?term=4321238'
+      target=new>PMC4321238
+
+LAST REVISION DATE:
+      20151028
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      United States
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Proceedings of the National Academy of Sciences of the United States of
+      America
+
+ARTICLE DATE:
+      20150112
+
+STAT:
+      MEDLINE
+
+REFERENCES:
+      Cites: Biol Reprod. 2009 May;80(5):889-96 (medline /19129512)
+
+      Cites: Neurotoxicology. 2014 Dec;45:91-9 (medline /25307304)
+
+      Cites: Mol Cell Endocrinol. 2001 Jun 10;178(1-2):1-10 (medline /11403888)
+
+      Cites: Differentiation. 2002 Mar;70(1):36-45 (medline /11963654)
+
+      Cites: Environ Health Perspect. 2002 Nov;110(11):A703-7 (medline
+      /12417499)
+
+      Cites: J Steroid Biochem Mol Biol. 2003 Sep;86(3-5):381-6 (medline
+      /14623534)
+
+      Cites: FEBS Lett. 2004 Jul 2;569(1-3):165-8 (medline /15225627)
+
+      Cites: Brain Res. 1976 Apr 23;106(2):407-12 (medline /1276881)
+
+      Cites: Brain Res. 1979 Dec 7;178(1):129-42 (medline /497856)
+
+      Cites: Brain Res. 1979 Dec 7;178(1):143-60 (medline /497857)
+
+      Cites: Dev Med Child Neurol. 1985 Aug;27(4):532-7 (medline /4029526)
+
+      Cites: Endocrinology. 1987 Dec;121(6):2205-10 (medline /3678147)
+
+      Cites: Endocrinology. 1990 Feb;126(2):1165-72 (medline /2298157)
+
+      Cites: Endocrinology. 1993 Jun;132(6):2279-86 (medline /8504731)
+
+      Cites: Brain Res Mol Brain Res. 1994 Jul;24(1-4):153-8 (medline /7968352)
+
+      Cites: Brain Res Dev Brain Res. 1997 Jan 2;98(1):74-81 (medline /9027406)
+
+      Cites: J Neuroendocrinol. 1998 Apr;10(4):267-74 (medline /9630396)
+
+      Cites: Endocrine. 1998 Aug;9(1):79-88 (medline /9798734)
+
+      Cites: J Mol Endocrinol. 2005 Dec;35(3):571-83 (medline /16326841)
+
+      Cites: Eur J Neurosci. 2006 Dec;24(12):3475-88 (medline /17229096)
+
+      Cites: Reprod Toxicol. 2007 Aug-Sep;24(2):178-98 (medline /17628395)
+
+      Cites: Zebrafish. 2007 Spring;4(1):49-57 (medline /18041942)
+
+      Cites: Brain Res Rev. 2008 Mar;57(2):342-51 (medline /17764748)
+
+      Cites: Dev Dyn. 2008 Oct;237(10):2987-95 (medline /18816841)
+
+      Cites: Endocr Rev. 2009 Feb;30(1):75-95 (medline /19074586)
+
+      Cites: Semin Reprod Med. 2009 May;27(3):207-17 (medline /19401952)
+
+      Cites: Neural Dev. 2009;4:22 (medline /19549326)
+
+      Cites: Dev Dyn. 2009 Oct;238(10):2641-51 (medline /19718764)
+
+      Cites: Environ Health Perspect. 2009 Dec;117(12):1945-52 (medline
+      /20049216)
+
+      Cites: J Toxicol Environ Health A. 2009;72(21-22):1343-51 (medline
+      /20077206)
+
+      Cites: Front Neuroendocrinol. 2010 Apr;31(2):172-92 (medline /20116395)
+
+      Cites: Synapse. 2010 Jun;64(6):432-9 (medline /20169576)
+
+      Cites: Mol Cell Endocrinol. 2010 Aug 5;324(1-2):110-20 (medline /20206664)
+
+      Cites: Environ Health Perspect. 2010 Sep;118(9):1196-203 (medline
+      /20382578)
+
+      Cites: Neurotoxicology. 2011 Mar;32(2):261-7 (medline /21182865)
+
+      Cites: Neurotoxicol Teratol. 2011 Sep-Oct;33(5):558-66 (medline /21854843)
+
+      Cites: Proc Natl Acad Sci U S A. 2011 Oct 25;108(43):17732-7 (medline
+      /22006313)
+
+      Cites: Environ Sci Technol. 2011 Nov 1;45(21):9372-9 (medline /21939283)
+
+      Cites: Pediatrics. 2011 Nov;128(5):873-82 (medline /22025598)
+
+      Cites: Toxicology. 2012 Jan 27;291(1-3):83-92 (medline /22108044)
+
+      Cites: Mol Cell Endocrinol. 2012 Mar 5;350(1):125-35 (medline /22178793)
+
+      Cites: Reprod Toxicol. 2012 Apr;33(2):198-204 (medline /21549831)
+
+      Cites: Toxicology. 2012 May 16;295(1-3):31-8 (medline /22426297)
+
+      Cites: Toxicol In Vitro. 2012 Aug;26(5):727-31 (medline /22507746)
+
+      Cites: Environ Sci Technol. 2012 Jun 19;46(12):6515-22 (medline /22591511)
+
+      Cites: Environ Sci Technol. 2012 Jun 19;46(12):6860-6 (medline /22620267)
+
+      Cites: Neuropathology. 2012 Aug;32(4):447-57 (medline /22239237)
+
+      Cites: Environ Health Perspect. 2012 Aug;120(8):1190-4 (medline /22543054)
+
+      Cites: Horm Behav. 2013 Feb;63(2):193-207 (medline /22521210)
+
+      Cites: Gen Comp Endocrinol. 2013 Jan 15;181:35-44 (medline /23103788)
+
+      Cites: FASEB J. 2013 Apr;27(4):1784-92 (medline /23345456)
+
+      Cites: Zebrafish. 2013 Mar;10(1):70-86 (medline /23590400)
+
+      Cites: Chem Biol Interact. 2013 May 25;203(3):556-64 (medline /23562765)
+
+      Cites: Environ Sci Technol. 2013 Aug 6;47(15):8793-800 (medline /23806087)
+
+      Cites: Environ Res. 2013 Oct;126:43-50 (medline /23870093)
+
+      Cites: Reprod Toxicol. 2013 Dec;42:210-23 (medline /24051129)
+
+      Cites: Toxicol Sci. 2014 May;139(1):35-47 (medline /24563381)
+
+      Cites: Chem Res Toxicol. 2001 Feb;14(2):149-57 (medline /11258963)
+
+DOCUMENT NUMBER:
+      medline/25583509
+
+9 - DART
+TITLE:
+      Effects of bisphenol s exposure on endocrine functions and reproduction of
+      zebrafish.
+
+AUTHORS:
+      Ji K
+         School of Public Health, Seoul National University , Gwanak, Seoul 151-742, Republic of Korea.
+      Hong S
+         School of Public Health, Seoul National University , Gwanak, Seoul 151-742, Republic of Korea.
+      Kho Y
+         School of Public Health, Seoul National University , Gwanak, Seoul 151-742, Republic of Korea.
+      Choi K
+         School of Public Health, Seoul National University , Gwanak, Seoul 151-742, Republic of Korea.
+
+SOURCE:
+      Environ Sci Technol. 2013, Aug 06; 47(15):8793-800. [Environmental science
+      & technology]
+
+ABSTRACT:
+      While bisphenol S (BPS) has been frequently detected both in environment
+      and biota, limited information is available on their effects of endocrine
+      system. In the present study, adult zebrafish pairs were exposed to 0.5,
+      5, and 50 &mu;g/L of BPS for 21 d, and the effects on reproduction, sex
+      steroid hormones, and transcription of the genes belonging to the
+      hypothalamic-pituitary-gonad (HPG) axis were investigated. The adverse
+      effects on performances of F1 generation were further examined with or
+      without subsequent exposure to BPS. Egg production and the gonadosomatic
+      index in female fish were significantly decreased at &ge;0.5 &mu;g/L BPS.
+      Plasma concentrations of 17&beta;-estradiol were significantly increased
+      in both male and female fish. In male fish, however, significant decreases
+      of testosterone concentration were observed along with up-regulation of
+      cyp19a and down-regulation of cyp17 and 17&beta;hsd transcripts. Parental
+      exposure to BPS resulted in delayed and lesser rates of hatching even when
+      they were hatched in clean water. Continuous BPS exposure in the F1
+      embryos resulted in worse hatchability and increased malformation rates
+      compared to those without BPS exposure. Our observations showed that
+      exposure to low level BPS could affect the feedback regulatory circuits of
+      HPG axis and impair the development of offspring. 
+
+CAS REGISTRY NUMBERS:
+      80-09-1
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1520-5851 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+      Research Support, Non-U.S. Gov't
+
+ENTRY MONTH:
+      201308
+
+TITLE ABBREVIATION:
+      Environ Sci Technol
+
+YEAR OF PUBLICATION:
+      2013
+
+LAST REVISION DATE:
+      20130806
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      United States
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Environmental science &amp; technology
+
+ARTICLE DATE:
+      20130711
+
+STAT:
+      MEDLINE
+
+DOCUMENT NUMBER:
+      medline/23806087
+
+10 - DART
+TITLE:
+      Actions of Bisphenol A and Bisphenol S on the Reproductive Neuroendocrine
+      System During Early Development in Zebrafish.
+
+AUTHORS:
+      Qiu W
+         School of Environmental and Chemical Engineering (W.Q., M.Y., C.P.), Shanghai University, Shanghai 200444, China; and Department of Physiology (W.Q., Y.Z., M.F., N.L.W.), David Geffen School of Medicine at the University of California, Los Angeles, Los Angeles, California 90095.
+      Zhao Y
+         School of Environmental and Chemical Engineering (W.Q., M.Y., C.P.), Shanghai University, Shanghai 200444, China; and Department of Physiology (W.Q., Y.Z., M.F., N.L.W.), David Geffen School of Medicine at the University of California, Los Angeles, Los Angeles, California 90095.
+      Yang M
+         School of Environmental and Chemical Engineering (W.Q., M.Y., C.P.), Shanghai University, Shanghai 200444, China; and Department of Physiology (W.Q., Y.Z., M.F., N.L.W.), David Geffen School of Medicine at the University of California, Los Angeles, Los Angeles, California 90095.
+      Farajzadeh M
+         School of Environmental and Chemical Engineering (W.Q., M.Y., C.P.), Shanghai University, Shanghai 200444, China; and Department of Physiology (W.Q., Y.Z., M.F., N.L.W.), David Geffen School of Medicine at the University of California, Los Angeles, Los Angeles, California 90095.
+      Pan C
+         School of Environmental and Chemical Engineering (W.Q., M.Y., C.P.), Shanghai University, Shanghai 200444, China; and Department of Physiology (W.Q., Y.Z., M.F., N.L.W.), David Geffen School of Medicine at the University of California, Los Angeles, Los Angeles, California 90095.
+      Wayne NL
+         School of Environmental and Chemical Engineering (W.Q., M.Y., C.P.), Shanghai University, Shanghai 200444, China; and Department of Physiology (W.Q., Y.Z., M.F., N.L.W.), David Geffen School of Medicine at the University of California, Los Angeles, Los Angeles, California 90095.
+
+SOURCE:
+      Endocrinology. 2016, Feb; 157(2):636-47. [Endocrinology]
+
+ABSTRACT:
+      Bisphenol A (BPA) is a well-known environmental, endocrine-disrupting
+      chemical, and bisphenol S (BPS) has been considered a safer alternative
+      for BPA-free products. The present study aims to evaluate the impact of
+      BPA and BPS on the reproductive neuroendocrine system during zebrafish
+      embryonic and larval development and to explore potential mechanisms of
+      action associated with estrogen receptor (ER), thyroid hormone receptor
+      (THR), and enzyme aromatase (AROM) pathways. Environmentally relevant, low
+      levels of BPA exposure during development led to advanced hatching time,
+      increased numbers of GnRH3 neurons in both terminal nerve and
+      hypothalamus, increased expression of reproduction-related genes (kiss1,
+      kiss1r, gnrh3, lh&beta;, fsh&beta;, and er&alpha;), and a marker for
+      synaptic transmission (sv2). Low levels of BPS exposure led to similar
+      effects: increased numbers of hypothalamic GnRH3 neurons and increased
+      expression of kiss1, gnrh3, and er&alpha;. Antagonists of ER, THRs, and
+      AROM blocked many of the effects of BPA and BPS on reproduction-related
+      gene expression, providing evidence that those three pathways mediate the
+      actions of BPA and BPS on the reproductive neuroendocrine system. This
+      study demonstrates that alternatives to BPA used in the manufacture of
+      BPA-free products are not necessarily safer. Furthermore, this is the
+      first study to describe the impact of low-level BPA and BPS exposure on
+      the Kiss/Kiss receptor system during development. It is also the first
+      report of multiple cellular pathways (ER&alpha;, THRs, and AROM) mediating
+      the effects of BPA and BPS during embryonic development in any species. 
+
+CAS REGISTRY NUMBERS:
+      147336-22-9
+      33515-09-2
+      80-09-1
+      MLT3645I99
+      SZB83O1W42
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1945-7170 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+      Research Support, Non-U.S. Gov't
+
+ENTRY MONTH:
+      201602
+
+TITLE ABBREVIATION:
+      Endocrinology
+
+YEAR OF PUBLICATION:
+      2016
+
+LAST REVISION DATE:
+      20160202
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      United States
+
+CITATION SUBSET:
+      AIM
+
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Endocrinology
+
+ARTICLE DATE:
+      20151210
+
+STAT:
+      MEDLINE
+
+REFERENCES:
+      Comment in: Endocrinology. 2016 Feb;157(2):449-51 (medline /26828808)
+
+DOCUMENT NUMBER:
+      medline/26653335
+
+11 - DART
+TITLE:
+      Bisphenol A Metabolites and Bisphenol S in Paired Maternal and Cord Serum.
+
+AUTHORS:
+      Liu J
+         Chaoyang District Center for Disease Control and Prevention , Beijing 100021, China.
+      Li J
+         Key Lab of Food Safety Risk Assessment, Ministry of Health and China National Center for Food Safety Risk Assessment , Beijing 100022, China.
+      Wu Y
+         Key Lab of Food Safety Risk Assessment, Ministry of Health and China National Center for Food Safety Risk Assessment , Beijing 100022, China.
+      Zhao Y
+         Key Lab of Food Safety Risk Assessment, Ministry of Health and China National Center for Food Safety Risk Assessment , Beijing 100022, China.
+      Luo F
+         Chaoyang District Center for Disease Control and Prevention , Beijing 100021, China.
+      Li S
+         Chaoyang District Center for Disease Control and Prevention , Beijing 100021, China.
+      Yang L
+         Key Lab of Food Safety Risk Assessment, Ministry of Health and China National Center for Food Safety Risk Assessment , Beijing 100022, China.
+      Moez EK
+         Key Lab of Food Safety Risk Assessment, Ministry of Health and China National Center for Food Safety Risk Assessment , Beijing 100022, China.
+      Dinu I
+         Key Lab of Food Safety Risk Assessment, Ministry of Health and China National Center for Food Safety Risk Assessment , Beijing 100022, China.
+      Martin JW
+         Key Lab of Food Safety Risk Assessment, Ministry of Health and China National Center for Food Safety Risk Assessment , Beijing 100022, China.
+
+SOURCE:
+      Environ Sci Technol. 2017, Feb 21; 51(4):2456-2463. [Environmental science
+      & technology]
+
+ABSTRACT:
+      Human studies show associations between maternal bisphenol A (BPA)
+      exposure and developmental effects in children, yet biomonitoring of BPA
+      metabolites in maternal and fetal serum remains limited, and less is known
+      for BPA alternatives. BPA-glucuronide, BPA-sulfate, and bisphenol S (BPS)
+      were quantified in 61 pairs of maternal and cord sera from Chinese
+      participants. Total BPS was only detectable in four maternal
+      (  < 0.03-0.07 ng/mL) and seven cord sera (  < 0.03-0.12 ng/mL),
+      indicating low exposure but providing the first evidence that BPS crosses
+      the human placenta. Total BPA metabolites in cord serum were significantly
+      higher than in maternal serum (p   <  0.05), suggesting that these may be
+      formed in the fetus or cleared more slowly from the fetoplacental
+      compartment. Unlike the pharmacokinetic results from controlled oral
+      exposure studies in which BPA-glucuronide is the major BPA metabolite,
+      here, BPA-sulfate was the dominant metabolite (GM: 0.06 and 0.08 ng/mL),
+      significantly higher than BPA-glucuronide (GM: 0.02 and 0.04 ng/mL) (p
+        <  0.01) in both maternal and cord sera. Moreover, the proportion of
+      BPA-sulfate increased with total BPA. These are the first human data for
+      BPA metabolites in paired maternal and cord serum, and results suggest
+      that the human fetus and pregnant mother have unique exposure to BPA
+      metabolites. Direct analysis of BPA metabolites in serum provides
+      complementary information for evaluating early life-stage exposure and
+      risks of BPA.
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1520-5851 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+ENTRY MONTH:
+      201701
+
+TITLE ABBREVIATION:
+      Environ Sci Technol
+
+YEAR OF PUBLICATION:
+      2017
+
+LAST REVISION DATE:
+      20170608
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      United States
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Environmental science &amp; technology
+
+ARTICLE DATE:
+      20170206
+
+STAT:
+      MEDLINE
+
+DOCUMENT NUMBER:
+      medline/28110528
+
+12 - DART
+TITLE:
+      Effects of BPA and BPS exposure limited to early embryogenesis persist to
+      impair non-associative learning in adults.
+
+AUTHORS:
+      Mersha MD
+         Department of Biological Sciences, Delaware State University, Dover, DE, 19901, USA. Mahlet.Mersha@gmail.com.
+      Patel BM
+         Neuroscience and Psychology Program, University of Pittsburgh, Pittsburgh, PA, 15260, USA. bmp55@pitt.edu.
+      Patel D
+         Department of Biological Sciences, Delaware State University, Dover, DE, 19901, USA. dnp17391@gmail.com.
+      Richardson BN
+         Department of Biological Sciences, Delaware State University, Dover, DE, 19901, USA. bnrichardson10@students.desu.edu.
+      Dhillon HS
+         Department of Biological Sciences, Delaware State University, Dover, DE, 19901, USA. hsdhillon@desu.edu.
+
+SOURCE:
+      Behav Brain Funct. 2015, Sep 17; 11:27. [Behavioral and brain functions :
+      BBF]
+
+ABSTRACT:
+      BACKGROUND: Bisphenol-A (BPA) is a polymerizing agent used in plastic
+      bottles and several routinely used consumer items. It is classified among
+      endocrine disrupting chemicals suspected to cause adverse health effects
+      in mammals ranging from infertility and cancer to behavioral disorders.
+      Work with the invertebrate lab model Caenorhabditis elegans has shown that
+      BPA affects germ cells by disrupting double-stranded DNA break repair
+      mechanisms. The current study utilizes this model organism to provide
+      insight into low-dose and long-term behavioral effects of BPA and
+      bisphenol-S (BPS), a supposed safer replacement for BPA.
+
+      FINDINGS: Experiments presented in our report demonstrate that the effects
+      of embryonic exposure to considerably low levels of BPA persist into
+      adulthood, affecting neural functionality as assayed by measuring
+      habituation to mechano-sensory stimuli in C. elegans. These results are
+      noteworthy in that they are based on low-dose exposures, following the
+      rationale that subtler effects that may not be morphologically apparent
+      are likely to be discernible through behavioral changes. In addition, we
+      report that embryonic exposure to BPS follows a pattern similar to BPA.
+
+      CONCLUSIONS: Building upon previous observations using the C. elegans
+      model, we have shown that exposure of embryos to BPA and BPS affects their
+      behavior as adults. These long-term effects are in line with recommended
+      alternate low-dose chemical safety testing approaches. Our observation
+      that the effects of BPS are similar to BPA is not unexpected, considering
+      their structural similarity. This, to our knowledge, is the first reported
+      behavioral study on low-dose toxicity of any endocrine disrupting chemical
+      in C. elegans.
+
+CAS REGISTRY NUMBERS:
+      80-09-1
+      MLT3645I99
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1744-9081 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+      Research Support, N.I.H., Extramural
+
+      Research Support, Non-U.S. Gov't
+
+ENTRY MONTH:
+      201509
+
+TITLE ABBREVIATION:
+      Behav Brain Funct
+
+YEAR OF PUBLICATION:
+      2015
+
+SECONDARY SOURCE ID:
+      Full text: <a href='https://www.ncbi.nlm.nih.gov/pmc/?term=4573949'
+      target=new>PMC4573949
+
+LAST REVISION DATE:
+      20161019
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      England
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Behavioral and brain functions : BBF
+
+ARTICLE DATE:
+      20150917
+
+STAT:
+      MEDLINE
+
+REFERENCES:
+      Cites: Biochem Biophys Res Commun. 2007 Dec 28;364(4):883-8 (medline
+      /17963693)
+
+      Cites: Neurobiol Learn Mem. 2009 Sep;92(2):139-46 (medline /18771741)
+
+      Cites: Toxicol Lett. 2009 Aug 25;189(1):40-7 (medline /19481886)
+
+      Cites: Environ Health Perspect. 2002 Apr;110(4):427-31 (medline /11940462)
+
+      Cites: Neuroscience. 2003;117(3):639-44 (medline /12617968)
+
+      Cites: J Vet Med Sci. 2003 Aug;65(8):881-5 (medline /12951420)
+
+      Cites: EMBO J. 2004 Jan 28;23(2):473-82 (medline /14739932)
+
+      Cites: Environ Health Perspect. 2005 Apr;113(4):391-5 (medline /15811827)
+
+      Cites: Neuron. 2007 Aug 16;55(4):662-76 (medline /17698017)
+
+      Cites: J Biochem. 2007 Oct;142(4):517-24 (medline /17761695)
+
+      Cites: Proc Natl Acad Sci U S A. 2010 Nov 23;107(47):20405-10 (medline
+      /21059909)
+
+      Cites: Neuroreport. 2011 Nov 16;22(16):845-9 (medline /21934535)
+
+      Cites: Toxicol In Vitro. 2012 Aug;26(5):727-31 (medline /22507746)
+
+      Cites: Endocr Rev. 2012 Jun;33(3):378-455 (medline /22419778)
+
+      Cites: Prog Neuropsychopharmacol Biol Psychiatry. 2012 Dec 3;39(2):273-9
+      (medline /22760093)
+
+      Cites: Neuroscience. 2013 Jun 3;239:280-94 (medline /23142339)
+
+      Cites: Proc Natl Acad Sci U S A. 2013 Jun 11;110(24):9956-61 (medline
+      /23716699)
+
+      Cites: Behav Brain Funct. 2013;9:16 (medline /23607404)
+
+      Cites: Reprod Toxicol. 2013 Dec;42:132-55 (medline /23994667)
+
+      Cites: Schizophr Res. 2013 Dec;151(1-3):124-32 (medline /24200419)
+
+      Cites: Fertil Steril. 2015 Jan;103(1):11-21 (medline /25475787)
+
+      Cites: Environ Health Perspect. 2015 Sep;123(9):895-901 (medline
+      /25815860)
+
+DOCUMENT NUMBER:
+      medline/26376977
+
+13 - DART
+TITLE:
+      Structural bisphenol analogues differentially target steroidogenesis in
+      murine MA-10 Leydig cells as well as the glucocorticoid receptor.
+
+AUTHORS:
+      Roelofs MJ
+         Endocrine Toxicology Research Group, Institute for Risk Assessment Sciences (IRAS), Utrecht University, P.O. Box 80.177, NL-3508 TD Utrecht, The Netherlands; Center for Health Protection, National Institute for Public Health and the Environment (RIVM), P.O. Box 1, 3720 BA Bilthoven, The Netherlands. Electronic address: m.j.e.roelofs@uu.nl.
+      van den Berg M
+         Endocrine Toxicology Research Group, Institute for Risk Assessment Sciences (IRAS), Utrecht University, P.O. Box 80.177, NL-3508 TD Utrecht, The Netherlands.
+      Bovee TF
+         RIKILT-Institute of Food Safety, Wageningen University and Research Centre, Akkermaalsbos 2, 6708 WB Wageningen, The Netherlands.
+      Piersma AH
+         Center for Health Protection, National Institute for Public Health and the Environment (RIVM), P.O. Box 1, 3720 BA Bilthoven, The Netherlands; Endocrine Toxicology Research Group, Institute for Risk Assessment Sciences (IRAS), Utrecht University, P.O. Box 80.177, NL-3508 TD Utrecht, The Netherlands.
+      van Duursen MB
+         Endocrine Toxicology Research Group, Institute for Risk Assessment Sciences (IRAS), Utrecht University, P.O. Box 80.177, NL-3508 TD Utrecht, The Netherlands.
+
+SOURCE:
+      Toxicology. 2015, Mar 02; 329:10-20. [Toxicology]
+
+ABSTRACT:
+      Although much information on the endocrine activity of bisphenol A (BPA)
+      is available, a proper human hazard assessment of analogues that are
+      believed to have a less harmful toxicity profile is lacking. Here the
+      possible effects of BPA, bisphenol F (BPF), bisphenol S (BPS), as well as
+      the brominated structural analogue and widely used flame retardant
+      tetrabromobisphenol A (TBBPA) on human glucocorticoid and androgen
+      receptor (GR and AR) activation were assessed. BPA, BPF, and TBBPA showed
+      clear GR and AR antagonism with IC50 values of 67 &mu;M, 60 &mu;M, and 22
+      nM for GR, and 39 &mu;M, 20 &mu;M, and 982 nM for AR, respectively,
+      whereas BPS did not affect receptor activity. In addition, murine MA-10
+      Leydig cells exposed to the bisphenol analogues were assessed for changes
+      in secreted steroid hormone levels. Testicular steroidogenesis was altered
+      by all bisphenol analogues tested. TBBPA effects were more directed
+      towards the male end products and induced testosterone synthesis, while
+      BPF and BPS predominantly increased the levels of progestagens that are
+      formed in the beginning of the steroidogenic pathway. The MA-10 Leydig
+      cell assay shows added value over the widely used H295R steroidogenesis
+      assay because of its fetal-like characteristics and specificity for the
+      physiologically more relevant testicular &Delta;4 steroidogenic pathway.
+      Therefore, adding an in vitro assay covering fetal testicular
+      steroidogenesis, such as the MA-10 cell line, to the panel of tests used
+      to screen potential endocrine disruptors, is highly recommendable.
+
+KEYWORDS:
+      (Fetal-like) steroidogenesis
+      (Structural) bisphenol analogues (TBBPA, BPA, BPF, BPS)
+      Androgen receptor (AR)
+      Glucocorticoid receptor (GR)
+      Murine MA-10 Leydig cells
+      Testosterone (T)
+
+CAS REGISTRY NUMBERS:
+      3XMK78S47O
+      80-09-1
+      FQI02RFC3A
+      MLT3645I99
+
+LANGUAGE:
+      eng
+
+INTERNATIONAL STANDARD SERIAL NUMBER:
+      1879-3185 (Electronic)
+
+PUBLICATION TYPES:
+      Journal Article
+
+      Research Support, Non-U.S. Gov't
+
+ENTRY MONTH:
+      201502
+
+TITLE ABBREVIATION:
+      Toxicology
+
+YEAR OF PUBLICATION:
+      2015
+
+LAST REVISION DATE:
+      20150216
+
+COPYRIGHT INFORMATION:
+      Copyright &copy; 2015 Elsevier Ireland Ltd. All rights reserved.
+
+MEDLINE CITATION:
+      NLM
+
+COUNTRY:
+      Ireland
+
+CITATION SUBSET:
+      IM
+
+MEDLINE TITLE ABBREVIATION:
+      Toxicology
+
+ARTICLE DATE:
+      20150108
+
+STAT:
+      MEDLINE
+
+DOCUMENT NUMBER:
+      medline/25576683
