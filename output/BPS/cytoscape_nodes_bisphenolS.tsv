@@ -1,0 +1,141 @@
+node_id	object
+AO26	diabetes mellitus
+AO5	body weight
+AO4	hepatitis
+AO19	cholestasis
+AO10	emergencies
+AO30	dermatitis
+AO1	seizures
+AO29	osteosarcoma
+AO18	steatosis
+AO27	death
+AO16	adipogenesis
+AO21	hepatic fibrosis
+AO25	chromosome aberrations
+AO24	carcinogenesis
+AO6	insulin receptor
+AO22	syndrome
+AO7	obesity
+AO13	neurodevelopmental disorders
+AO15	lipid metabolism
+AO3	thyroiditis
+AO9	thinness
+AO28	hemolysis
+AO8	overweight
+AO12	disease
+AO11	cancer
+AO20	fibrosis
+AO14	infertility
+AO17	hepatic steatosis
+AO31	breast cancer
+AO2	dyspnea
+AO23	poisoning
+KE1065	activation estrogen receptor alpha
+KE1445	increase lipid peroxidation
+KE119	gap
+KE277	decrease thyroid hormone synthesis
+KE1238	activation oxidative stress pathway
+KE742	decreased androgen receptor activity
+KE1278	ros formation
+KE881	increased triglyceride
+KE1015	increased neuronal synaptic inhibition
+KE785	activation androgen receptor
+KE1115	increased reactive oxygen species
+KE1194	increase dna damage
+KE1239	altered gene expression
+KE220	increase plasma vitellogenin concentrations
+KE756	hippocampal gene expression altered 
+KE130	depletion gsh
+KE249	production reactive oxygen species
+KE315	decreased body length
+KE1157	activation hepatic nuclear receptor(s)
+KE210	oxidative stress
+KE1181	activation estrogen receptor
+KE577	impaired development
+KE122	activation glucocorticoid receptor
+KE1396	increased glucocorticoid receptor activity
+KE201	binding antagonist nmda receptors
+KE257	increase reactive oxygen species production
+KE1392	oxidative stress 
+KE1262	apoptosis
+KE1030	increased 
+KE1060	alteration lipid metabolism
+KE1113	unknown 
+KE1263	necrosis
+KE1180	estrogen receptor activation 
+KE1249	oxidative stress 
+KE312	allergic contact dermatitis challenge
+KE1281	increased dna damage repair
+KE344	liver fibrosis
+KE330	decrease fertility
+KE1447	obesity
+KE494	glucocorticoid receptor agonist activation
+KE808	decreased testosterone
+KE1193	breast cancer
+KE446	reduction testosterone level
+KE342	increased lethality
+KE1454	chronic high fat diet
+KE417	skewed sex ratio
+KE294	unknown
+KE864	decreased body weight
+KE167	activation lxr
+KE1421	activated lxr
+RE2	2
+RE3	3
+RE4	4
+RE5	5
+RE6	6
+RE7	7
+RE8	8
+RE9	9
+RE10	10
+RE11	11
+RE12	12
+RE13	13
+RE14	14
+RE15	15
+RE16	16
+RE17	17
+RE19	19
+RE22	22
+RE23	23
+RE24	24
+RE25	25
+RE27	27
+RE29	29
+RE32	32
+RE33	33
+RE37	37
+RE38	38
+RE39	39
+RE40	40
+RE44	44
+RE45	45
+RE46	46
+RE53	53
+RE54	54
+RE57	57
+RE59	59
+RE61	61
+RE64	64
+RE69	69
+RE70	70
+RE73	73
+RE76	76
+RE79	79
+RE81	81
+RE82	82
+RE83	83
+RE84	84
+RE86	86
+RE89	89
+RE90	90
+RE91	91
+RE96	96
+RE97	97
+RE101	101
+RE103	103
+RE104	104
+RE107	107
+RE109	109
+RE110	110

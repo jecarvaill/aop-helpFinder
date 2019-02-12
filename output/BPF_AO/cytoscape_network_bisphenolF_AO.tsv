@@ -1,0 +1,128 @@
+node_id	target	category	weight	source
+AO1	cancer	AO	0.21122112211221122	RE28
+AO1	cancer	AO	0.1901639344262295	RE52
+AO2	decreased fertility	AO	0.2174863387978142	RE52
+AO1	cancer	AO	0.6315331010452961	RE77
+AO1	cancer	AO	0.45677233429394815	RE124
+AO1	cancer	AO	0.6737089201877934	RE125
+AO1	cancer	AO	0.3277404921700224	RE150
+AO1	cancer	AO	0.14073426573426573	RE178
+KE1030	increased 	KE	1.0	RE7
+KE768	increase cytotoxicity	KE	4.5	RE10
+KE770	increase cytotoxicity (club cells)	KE	-2.25	RE10
+KE776	increase cytotoxicity (corneal cells)	KE	-2.25	RE10
+KE780	increase cytotoxicity (epithelial cells)	KE	-2.25	RE10
+KE794	increase cytotoxicity (urothelial cells)	KE	-2.25	RE10
+KE1030	increased 	KE	1.0	RE10
+KE1030	increased 	KE	1.0	RE12
+KE169	disruption membrane integrity	KE	1.3333333333333333	RE17
+KE1030	increased 	KE	1.0	RE20
+KE808	decreased testosterone	KE	1.5	RE27
+KE494	glucocorticoid receptor agonist activation	KE	-2.0	RE28
+KE742	decreased androgen receptor activity	KE	-2.25	RE28
+KE785	activation androgen receptor	KE	3.0	RE28
+KE1193	breast cancer	KE	1.0	RE28
+KE1030	increased 	KE	1.0	RE36
+KE201	binding antagonist nmda receptors	KE	-1.25	RE41
+KE1030	increased 	KE	1.0	RE43
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE46
+KE1030	increased 	KE	1.0	RE44
+KE1262	apoptosis	KE	1.0	RE44
+KE1030	increased 	KE	1.0	RE45
+KE277	decrease thyroid hormone synthesis	KE	2.5	RE48
+KE286	decreased transcription genes ar	KE	-3.25	RE48
+KE1021	increased t4 t3 catabolism	KE	-1.0	RE48
+KE1030	increased 	KE	1.0	RE48
+KE1030	increased 	KE	1.0	RE51
+KE1157	activation hepatic nuclear receptor(s)	KE	-2.0	RE51
+KE1396	increased glucocorticoid receptor activity	KE	-3.75	RE51
+KE1030	increased 	KE	1.0	RE53
+KE330	decrease fertility	KE	1.0	RE52
+KE885	increase cancer	KE	3.0	RE52
+KE1030	increased 	KE	1.0	RE52
+KE1193	breast cancer	KE	2.0	RE52
+KE1447	obesity	KE	1.0	RE52
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE56
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE58
+KE1030	increased 	KE	1.0	RE60
+KE1030	increased 	KE	1.0	RE66
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE71
+KE1030	increased 	KE	1.0	RE70
+KE446	reduction testosterone level	KE	2.3333333333333335	RE73
+KE1030	increased 	KE	1.0	RE73
+KE130	depletion gsh	KE	1.0	RE76
+KE249	production reactive oxygen species	KE	-0.75	RE76
+KE1030	increased 	KE	1.0	RE76
+KE1115	increased reactive oxygen species	KE	-0.75	RE76
+KE1278	ros formation	KE	1.0	RE76
+KE1445	increase lipid peroxidation	KE	1.0	RE76
+KE1447	obesity	KE	1.0	RE77
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE80
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE82
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE81
+KE1030	increased 	KE	1.0	RE85
+KE1030	increased 	KE	1.0	RE86
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE90
+KE1030	increased 	KE	1.0	RE95
+KE1030	increased 	KE	1.0	RE97
+KE1447	obesity	KE	1.0	RE97
+KE1030	increased 	KE	1.0	RE102
+KE1030	increased 	KE	1.0	RE101
+KE294	unknown	KE	1.0	RE104
+KE1030	increased 	KE	1.0	RE104
+KE1113	unknown 	KE	1.0	RE104
+KE1030	increased 	KE	1.0	RE113
+KE1030	increased 	KE	1.0	RE116
+KE1030	increased 	KE	1.0	RE123
+KE1030	increased 	KE	1.0	RE121
+KE416	increase proliferation leydig cell 	KE	-1.0	RE124
+KE870	increase cell proliferation	KE	1.3333333333333333	RE124
+KE923	increase proliferation goblet cells	KE	-1.0	RE124
+KE1030	increased 	KE	1.0	RE124
+KE1033	increased proliferation mesenchymal cells	KE	-1.0	RE124
+KE1089	increased cell proliferation (mesothelium)	KE	-1.0	RE124
+KE1182	increase cell proliferation (epithelial cells)	KE	-1.0	RE124
+KE1189	increased proliferation (endothelial cells) 	KE	-1.0	RE124
+KE1193	breast cancer	KE	1.0	RE124
+KE364	impaired development of reproductive organs	KE	-0.75	RE125
+KE1205	activation juvenile hormone receptor	KE	-1.5	RE125
+KE1030	increased 	KE	1.0	RE127
+KE1030	increased 	KE	1.0	RE126
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE129
+KE210	oxidative stress	KE	1.0	RE137
+KE1249	oxidative stress 	KE	1.0	RE137
+KE1278	ros formation	KE	2.0	RE137
+KE1392	oxidative stress 	KE	1.0	RE137
+KE210	oxidative stress	KE	1.0	RE141
+KE1249	oxidative stress 	KE	1.0	RE141
+KE1392	oxidative stress 	KE	1.0	RE141
+KE416	increase proliferation leydig cell 	KE	-1.0	RE150
+KE870	increase cell proliferation	KE	1.3333333333333333	RE150
+KE923	increase proliferation goblet cells	KE	-1.0	RE150
+KE1030	increased 	KE	1.0	RE150
+KE1033	increased proliferation mesenchymal cells	KE	-1.0	RE150
+KE1089	increased cell proliferation (mesothelium)	KE	-1.0	RE150
+KE1182	increase cell proliferation (epithelial cells)	KE	-1.0	RE150
+KE1189	increased proliferation (endothelial cells) 	KE	-1.0	RE150
+KE1193	breast cancer	KE	1.0	RE150
+KE1030	increased 	KE	1.0	RE155
+KE1030	increased 	KE	1.0	RE157
+KE1030	increased 	KE	1.0	RE159
+KE122	activation glucocorticoid receptor	KE	2.0	RE163
+KE494	glucocorticoid receptor agonist activation	KE	-1.5	RE163
+KE742	decreased androgen receptor activity	KE	-1.25	RE163
+KE785	activation androgen receptor	KE	1.6666666666666667	RE163
+KE1030	increased 	KE	1.0	RE163
+KE1396	increased glucocorticoid receptor activity	KE	-1.5	RE163
+KE1030	increased 	KE	1.0	RE166
+KE1194	increase dna damage	KE	1.0	RE166
+KE1281	increased dna damage repair	KE	-0.75	RE166
+KE1030	increased 	KE	1.0	RE167
+KE1030	increased 	KE	1.0	RE175
+KE1030	increased 	KE	1.0	RE173
+KE1030	increased 	KE	1.0	RE174
+KE122	activation glucocorticoid receptor	KE	1.3333333333333333	RE178
+KE494	glucocorticoid receptor agonist activation	KE	-1.0	RE178
+KE742	decreased androgen receptor activity	KE	-0.75	RE178
+KE785	activation androgen receptor	KE	1.0	RE178
+KE1396	increased glucocorticoid receptor activity	KE	-1.0	RE178

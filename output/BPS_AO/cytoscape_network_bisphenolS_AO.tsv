@@ -1,0 +1,122 @@
+node_id	target	category	weight	source
+AO1	cancer	AO	0.08961748633879782	RE10
+AO1	cancer	AO	0.4108352144469526	RE14
+AO1	cancer	AO	0.4763157894736842	RE16
+AO2	adipogenesis	AO	0.1502659574468085	RE33
+AO3	hepatic steatosis	AO	0.2888631090487239	RE37
+AO4	steatosis	AO	0.9501160092807425	RE37
+AO2	adipogenesis	AO	0.9676855895196507	RE46
+AO1	cancer	AO	0.10765002290426019	RE103
+AO1	cancer	AO	0.10765002290426019	RE104
+KE277	decrease thyroid hormone synthesis	KE	-0.75	RE4
+KE342	increased lethality	KE	8.5	RE4
+KE1030	increased 	KE	1.0	RE4
+KE808	decreased testosterone	KE	1.5	RE7
+KE210	oxidative stress	KE	1.0	RE6
+KE249	production reactive oxygen species	KE	-0.75	RE6
+KE257	increase reactive oxygen species production	KE	-1.0	RE6
+KE1030	increased 	KE	1.0	RE6
+KE1115	increased reactive oxygen species	KE	1.25	RE6
+KE1249	oxidative stress 	KE	1.0	RE6
+KE1392	oxidative stress 	KE	1.0	RE6
+KE1445	increase lipid peroxidation	KE	2.3333333333333335	RE6
+KE756	hippocampal gene expression altered 	KE	-1.25	RE5
+KE881	increased triglyceride	KE	2.0	RE5
+KE1030	increased 	KE	1.0	RE5
+KE1239	altered gene expression	KE	1.6666666666666667	RE5
+KE1447	obesity	KE	1.0	RE5
+KE1454	chronic high fat diet	KE	-0.75	RE5
+KE1030	increased 	KE	1.0	RE8
+KE315	decreased body length	KE	1.6666666666666667	RE3
+KE330	decrease fertility	KE	2.0	RE3
+KE417	skewed sex ratio	KE	1.0	RE3
+KE864	decreased body weight	KE	1.6666666666666667	RE3
+KE1030	increased 	KE	1.0	RE3
+KE1262	apoptosis	KE	1.0	RE9
+KE1030	increased 	KE	1.0	RE10
+KE1447	obesity	KE	1.0	RE10
+KE1030	increased 	KE	1.0	RE13
+KE220	increase plasma vitellogenin concentrations	KE	-1.25	RE11
+KE577	impaired development	KE	1.0	RE11
+KE808	decreased testosterone	KE	1.0	RE11
+KE1030	increased 	KE	1.0	RE11
+KE1015	increased neuronal synaptic inhibition	KE	-4.0	RE12
+KE1030	increased 	KE	1.0	RE12
+KE122	activation glucocorticoid receptor	KE	2.0	RE15
+KE494	glucocorticoid receptor agonist activation	KE	-1.5	RE15
+KE742	decreased androgen receptor activity	KE	-1.25	RE15
+KE785	activation androgen receptor	KE	1.6666666666666667	RE15
+KE1030	increased 	KE	1.0	RE15
+KE1396	increased glucocorticoid receptor activity	KE	-1.5	RE15
+KE1030	increased 	KE	1.0	RE17
+KE210	oxidative stress	KE	1.0	RE19
+KE1238	activation oxidative stress pathway	KE	-2.25	RE19
+KE1249	oxidative stress 	KE	1.0	RE19
+KE1262	apoptosis	KE	1.0	RE19
+KE1392	oxidative stress 	KE	1.0	RE19
+KE1030	increased 	KE	1.0	RE22
+KE1065	activation estrogen receptor alpha	KE	-1.0	RE23
+KE1030	increased 	KE	1.0	RE27
+KE249	production reactive oxygen species	KE	-0.75	RE32
+KE1115	increased reactive oxygen species	KE	-0.75	RE32
+KE1030	increased 	KE	1.0	RE33
+KE1030	increased 	KE	1.0	RE38
+KE1030	increased 	KE	1.0	RE37
+KE1447	obesity	KE	1.0	RE37
+KE130	depletion gsh	KE	1.0	RE39
+KE249	production reactive oxygen species	KE	-0.75	RE39
+KE1030	increased 	KE	1.0	RE39
+KE1115	increased reactive oxygen species	KE	-0.75	RE39
+KE1278	ros formation	KE	1.0	RE39
+KE1445	increase lipid peroxidation	KE	1.0	RE39
+KE119	gap	KE	1.0	RE40
+KE1030	increased 	KE	1.0	RE40
+KE1030	increased 	KE	1.0	RE45
+KE1030	increased 	KE	1.0	RE44
+KE167	activation lxr	KE	3.0	RE46
+KE344	liver fibrosis	KE	5.5	RE46
+KE756	hippocampal gene expression altered 	KE	-0.75	RE46
+KE1060	alteration lipid metabolism	KE	2.6666666666666665	RE46
+KE1157	activation hepatic nuclear receptor(s)	KE	-2.0	RE46
+KE1239	altered gene expression	KE	1.0	RE46
+KE1421	activated lxr	KE	3.0	RE46
+KE1263	necrosis	KE	1.0	RE2
+KE210	oxidative stress	KE	1.0	RE53
+KE1249	oxidative stress 	KE	1.0	RE53
+KE1392	oxidative stress 	KE	1.0	RE53
+KE1030	increased 	KE	1.0	RE54
+KE1030	increased 	KE	1.0	RE57
+KE446	reduction testosterone level	KE	2.3333333333333335	RE59
+KE1030	increased 	KE	1.0	RE59
+KE1030	increased 	KE	1.0	RE61
+KE1194	increase dna damage	KE	1.0	RE61
+KE1281	increased dna damage repair	KE	-0.75	RE61
+KE1030	increased 	KE	1.0	RE64
+KE1030	increased 	KE	1.0	RE69
+KE1030	increased 	KE	1.0	RE70
+KE1030	increased 	KE	1.0	RE73
+KE1447	obesity	KE	1.0	RE73
+KE1030	increased 	KE	1.0	RE76
+KE1030	increased 	KE	1.0	RE79
+KE294	unknown	KE	1.0	RE81
+KE1030	increased 	KE	1.0	RE81
+KE1113	unknown 	KE	1.0	RE81
+KE1030	increased 	KE	1.0	RE82
+KE1262	apoptosis	KE	1.0	RE82
+KE1030	increased 	KE	1.0	RE84
+KE1447	obesity	KE	1.0	RE84
+KE1065	activation estrogen receptor alpha	KE	-1.0	RE86
+KE1030	increased 	KE	1.0	RE89
+KE210	oxidative stress	KE	1.0	RE90
+KE1249	oxidative stress 	KE	1.0	RE90
+KE1278	ros formation	KE	2.0	RE90
+KE1392	oxidative stress 	KE	1.0	RE90
+KE1030	increased 	KE	1.0	RE97
+KE312	allergic contact dermatitis challenge	KE	-0.75	RE101
+KE1193	breast cancer	KE	1.0	RE103
+KE1193	breast cancer	KE	1.0	RE104
+KE201	binding antagonist nmda receptors	KE	-1.5	RE110
+KE1065	activation estrogen receptor alpha	KE	-3.0	RE110
+KE1180	estrogen receptor activation 	KE	4.0	RE110
+KE1181	activation estrogen receptor	KE	4.0	RE110
+KE1447	obesity	KE	1.0	RE110
