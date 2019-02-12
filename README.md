@@ -113,12 +113,13 @@ python3 aop_finder.py -h
 ### Required arguments:
 
 - -d DATABASE, --database DATABASE
+  
 path or name of the database to used or to created.
-
 
 If the database is empty or does not exists, this argument is necessary.
 
 - -i INPUT, --input INPUT
+  
 path of the directory which contains files related to the study molecule.
 
 #### Format of files accepted:
@@ -138,78 +139,78 @@ python3 aop_finder.py -d database/bispenolS.db -i data/raw-data/BPS/
 ### Optional arguments:
 
 - -a ADVERSE_OUTCOME, --adverse_outcome ADVERSE_OUTCOME
+
 path of the file which contains current adverse outcomes. This file is
 performed with AOPwiki website. It corresponds to all adverse outcomes
 indexed on AOPwiki website. See doc directory.
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--a data/AOPwiki/61-current-AO-25Aout2017.txt
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-a data/AOPwiki/61-current-AO-25Aout2017.txt`
 
 - -c CTD_FILE, --ctd_file CTD_FILE
+
 path of the file which contains diseases in a tsv format. This file should be
 performed by CTD database beforehand. This file corresponds to the disease
 vocabulary file downloadable on http://ctdbase.org/downloads/
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--c data/diseases/CTD_diseases-2017-09-28.tsv
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-c data/diseases/CTD_diseases-2017-09-28.tsv`
 
 - -k KE_FILE, --ke_file KE_FILE
+
 path of the file which contains key-events in a tsv format. This file should
 be performed with AOPwiki beforehand. This file corresponds to all key-events
 indexed on AOPwiki website. See doc directory.
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--k data/AOPWiki/Key-events-25August2017.txt
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-k data/AOPWiki/Key-events-25August2017.txt`
 
 - -r KER_FILE, --ker_file KER_FILE
+
 path of the file which contains key-events- relationships in a tsv format.
 This file should be performed with AOPwiki beforehand. This file corresponds
 to all key-events-relationships indexed on AOPwiki website. See doc directory.
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--r data/AOPWiki/KE-relationships-25August2017.txt
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-r data/AOPWiki/KE-relationships-25August2017.txt`
 
 - -o OUTPUT, --output OUTPUT
+
 write a result file which contains adverse outcomes or diseases linked to
 corresponding occurence.
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--o output/disease_finded_BPS.csv
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-o output/disease_finded_BPS.csv`
 
 - -cdt CYTOSCAPE_NODES, --cytoscape_nodes CYTOSCAPE_NODES
+
 write a result file which contains nodes of a cytoscape network.
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--ctd output/cytoscape_nodes_bisphenolS.tsv
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-ctd output/cytoscape_nodes_bisphenolS.tsv`
 
 - -cne CYTOSCAPE_NETWORK, --cytoscape_network CYTOSCAPE_NETWORK
+
 write a result file which contains adverse outcomes, diseases or key-events
 linked to a specific review.
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--cne output/cytoscape_network_bisphenolS.tsv
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-cne output/cytoscape_network_bisphenolS.tsv`
 
 - -ani ANIMALS, --animals ANIMALS
+
 path of the file which contains common_name of animals contributing generally
 in science.
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--ani data/animals/common_name.txt
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-ani data/animals/common_name.txt`
 
 - -cpu [NUMBER_OF_CPU], --number_of_cpu [NUMBER_OF_CPU]
+
 number of cpu to use at the execution of the software.
 
-Commands:
-python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
--cpu 8
+`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+-cpu 8`
     
 ## USAGE: 
 cd src/aop_finder/
