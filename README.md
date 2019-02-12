@@ -4,8 +4,11 @@
 ## DESCRIPTION
 This software linked adverse outcomes, diseases and key-events with reviews.
 This is based on a text mining and parsing process on abstract.
+
 Software implemented for Human Biomonintoring in Europe (HBM4EU) Work Package
 13.1.
+
+HBM4EU has received funding from the European Union’s H2020 research and innovation programme under grant agreement No 733032.
 
 ## Python Compatibility 
 This program is compatible with python 3.x.
