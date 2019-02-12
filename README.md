@@ -222,12 +222,23 @@ aop-helpFinder/output directory contains results of the software in function of 
 Command to launch an analyze on BPS reviews not including Comparative
 Toxicogenomics Database diseases vocabulary file:
 
-```python3 aop_finder.py -d database/bisphenolS_AO.db -i data/raw-data/BPS/ -cdt output/cytoscape_nodes_bisphenolS_AO.tsv -cne output/cytoscape_network_bisphenolS_AO.tsv -a data/AOPwiki/61-current-AO-25Aout2017.txt -cpu 8```
+ ```text
+ python3 aop_finder.py -d database/bisphenolS_AO.db -i data/raw-data/BPS/
+-cdt output/cytoscape_nodes_bisphenolS_AO.tsv
+-cne output/cytoscape_network_bisphenolS_AO.tsv
+-a data/AOPwiki/61-current-AO-25Aout2017.txt -cpu 8
+```
 
 Command to launch an analyze on BPS reviews including Comparative
 Toxicogenomics Database diseases vocabulary file:
 
-```python3 aop_finder.py -d database/bisphenolS_AO.db -i data/raw-data/BPS/ -cdt output/cytoscape_nodes_bisphenolS_AO.tsv -cne output/cytoscape_network_bisphenolS_AO.tsv -a data/AOPwiki/61-current-AO-25Aout2017.txt -c data/diseases/CTD_diseases-2017-09-28.tsv -cpu 8```
+ ```text
+ python3 aop_finder.py -d database/bisphenolS_AO.db -i data/raw-data/BPS/
+-cdt output/cytoscape_nodes_bisphenolS_AO.tsv
+-cne output/cytoscape_network_bisphenolS_AO.tsv
+-a data/AOPwiki/61-current-AO-25Aout2017.txt 
+-c data/diseases/CTD_diseases-2017-09-28.tsv -cpu 8
+```
 
 by default the results files are in output directory
 
