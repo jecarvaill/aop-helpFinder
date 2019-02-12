@@ -17,6 +17,7 @@ This program is compatible with python 3.x.
 
 1. Clone this repo `git clone https://github.com/jcarvaill/aop-helpFinder`
 2. Install dependancies:
+
    2.1. Using pip (and use python environment system)
     
         `sudo pip install -r requirements.txt`
