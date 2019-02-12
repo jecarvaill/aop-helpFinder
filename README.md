@@ -20,21 +20,21 @@ This program is compatible with python 3.x.
 
    2.1. Using pip (and use python environment system)
     
-        `sudo pip install -r requirements.txt`
-       or
-        `sudo pip3 install -r requirements.txt`
+      `sudo pip install -r requirements.txt` or `sudo pip3 install -r requirements.txt`
+    
  
    2.2. Using virtualenv, suggested (use a virtual environment, leaving your python installation untouched)
     
       - To install virtualenv via pip:
-        `sudo pip install virtualenv`
-       or
-        `sudo pip3 install virtualenv`
+        
+        `sudo pip install virtualenv` or `sudo pip3 install virtualenv`
 
       - To create a virtual environment for aop-helpFinder:
-        `virtualenv aop-helpFinder_venv
+        
+        `virtualenv aop-helpFinder_venv`
 
       - Don't forget to activate environment with:
+        
         `source {PATH}/aop-helpfinder_venv/bin/activate`
 
      (- To deactivate environment: `deactivate`)
@@ -43,11 +43,9 @@ This program is compatible with python 3.x.
 
    2.3. (Easy) Using directly aop-helpFinder scripts
 
-        `python {PATH}/aop-helpfinder/aop-helpFinder.py`
-        or
-        `python3 {PATH}/aop-helpfinder/aop-helpFinder.py`
+      `python {PATH}/aop-helpfinder/aop-helpFinder.py` or `python3 {PATH}/aop-helpfinder/aop-helpFinder.py`
 
-        To proceed, bin directory should be conserved
+   To proceed, bin directory should be conserved
 
 3. Use aop-helpFinder scripts with `python {PATH}/aop-helpFinder/aop-helpFinder.py` or `python3 {PATH}/aop-helpFinder/aop-helpFinder.py`
 
