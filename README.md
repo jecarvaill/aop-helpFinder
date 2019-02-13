@@ -40,7 +40,7 @@ This program is compatible with python 3.x.
         
         `source {PATH}/aop-helpfinder_venv/bin/activate`
 
-     (- To deactivate environment: `deactivate`)
+      - (To deactivate environment: `deactivate`)
 
       - Same as 2.1.
 
@@ -110,8 +110,7 @@ Following packages are needed:
 -h, --help
 Display help of the software.
 
-Command:
-python3 aop_finder.py -h
+`python3 aop_finder.py -h`
 
 ### Required arguments:
 
@@ -136,8 +135,7 @@ Excepted for CCRIS and RTECS (private database).
   - RTECS (.pdf)
   - TOXLINE (.txt)
 
-Commands:
-python3 aop_finder.py -d database/bispenolS.db -i data/raw-data/BPS/
+`python3 aop_finder.py -d database/bispenolS.db -i data/raw-data/BPS/`
 
 ### Optional arguments:
 
