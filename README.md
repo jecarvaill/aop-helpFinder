@@ -234,9 +234,9 @@ Command to launch an analyze on BPS reviews including Comparative
 Toxicogenomics Database diseases vocabulary file:
 
  ```text
- python3 aop_finder.py -d database/bisphenolS_AO.db -i data/raw-data/BPS/
--cdt output/cytoscape_nodes_bisphenolS_AO.tsv
--cne output/cytoscape_network_bisphenolS_AO.tsv
+ python3 aop_finder.py -d database/bisphenolS.db -i data/raw-data/BPS/
+-cdt output/cytoscape_nodes_bisphenolS.tsv
+-cne output/cytoscape_network_bisphenolS.tsv
 -a data/AOPwiki/61-current-AO-25Aout2017.txt 
 -c data/diseases/CTD_diseases-2017-09-28.tsv -cpu 8
 ```
