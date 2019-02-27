@@ -46,11 +46,11 @@ This program is compatible with python 3.x.
 
    2.3. (Easy) Using directly aop-helpFinder scripts
 
-      `python {PATH}/aop-helpfinder/aop-helpFinder.py` or `python3 {PATH}/aop-helpfinder/aop-helpFinder.py`
+      `python {PATH}/aop-helpfinder/src/aop-helpFinder.py` or `python3 {PATH}/aop-helpfinder/src/aop-helpFinder.py`
 
    To proceed, bin directory should be conserved
 
-3. Use aop-helpFinder scripts with `python {PATH}/aop-helpFinder/aop-helpFinder.py` or `python3 {PATH}/aop-helpFinder/aop-helpFinder.py`
+3. Use aop-helpFinder scripts with `python {PATH}/aop-helpFinder/src/aop-helpFinder.py` or `python3 {PATH}/aop-helpFinder/src/aop-helpFinder.py`
 
 
 ## Dependancies and installation: 
@@ -110,7 +110,7 @@ Following packages are needed:
 -h, --help
 Display help of the software.
 
-`python3 aop_finder.py -h`
+`python3 src/aop-helpFinder.py -h`
 
 ### Required arguments:
 
@@ -135,7 +135,7 @@ Excepted for CCRIS and RTECS (private database).
   - RTECS (.pdf)
   - TOXLINE (.txt)
 
-`python3 aop_finder.py -d database/bispenolS.db -i data/raw-data/BPS/`
+`python3 src/aop-helpFinder.py -d database/bispenolS.db -i data/raw-data/BPS/`
 
 ### Optional arguments:
 
@@ -145,7 +145,7 @@ path of the file which contains current adverse outcomes. This file is
 performed with AOPwiki website. It corresponds to all adverse outcomes
 indexed on AOPwiki website. See doc directory.
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -a data/AOPwiki/61-current-AO-25Aout2017.txt`
 
 - -c CTD_FILE, --ctd_file CTD_FILE
@@ -154,7 +154,7 @@ path of the file which contains diseases in a tsv format. This file should be
 performed by CTD database beforehand. This file corresponds to the disease
 vocabulary file downloadable on http://ctdbase.org/downloads/
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -c data/diseases/CTD_diseases-2017-09-28.tsv`
 
 - -k KE_FILE, --ke_file KE_FILE
@@ -163,7 +163,7 @@ path of the file which contains key-events in a tsv format. This file should
 be performed with AOPwiki beforehand. This file corresponds to all key-events
 indexed on AOPwiki website. See doc directory.
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -k data/AOPWiki/Key-events-25August2017.txt`
 
 - -r KER_FILE, --ker_file KER_FILE
@@ -172,7 +172,7 @@ path of the file which contains key-events- relationships in a tsv format.
 This file should be performed with AOPwiki beforehand. This file corresponds
 to all key-events-relationships indexed on AOPwiki website. See doc directory.
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -r data/AOPWiki/KE-relationships-25August2017.txt`
 
 - -o OUTPUT, --output OUTPUT
@@ -180,14 +180,14 @@ to all key-events-relationships indexed on AOPwiki website. See doc directory.
 write a result file which contains adverse outcomes or diseases linked to
 corresponding occurence.
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -o output/disease_finded_BPS.csv`
 
 - -cdt CYTOSCAPE_NODES, --cytoscape_nodes CYTOSCAPE_NODES
 
 write a result file which contains nodes of a cytoscape network.
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -ctd output/cytoscape_nodes_bisphenolS.tsv`
 
 - -cne CYTOSCAPE_NETWORK, --cytoscape_network CYTOSCAPE_NETWORK
@@ -195,7 +195,7 @@ write a result file which contains nodes of a cytoscape network.
 write a result file which contains adverse outcomes, diseases or key-events
 linked to a specific review.
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -cne output/cytoscape_network_bisphenolS.tsv`
 
 - -ani ANIMALS, --animals ANIMALS
@@ -203,14 +203,14 @@ linked to a specific review.
 path of the file which contains common_name of animals contributing generally
 in science.
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -ani data/animals/common_name.txt`
 
 - -cpu [NUMBER_OF_CPU], --number_of_cpu [NUMBER_OF_CPU]
 
 number of cpu to use at the execution of the software.
 
-`python3 aop_finder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
+`python3 ./src/aop-helpFinder.py -d ./database/bispenolS.db -i ./data/raw-data/BPS/
 -cpu 8`
     
 ## USAGE: 
@@ -224,7 +224,7 @@ Command to launch an analyze on BPS reviews not including Comparative
 Toxicogenomics Database diseases vocabulary file:
 
  ```text
- python3 aop_finder.py -d database/bisphenolS_AO.db -i data/raw-data/BPS/
+ python3 src/aop-helpFinder.py -d database/bisphenolS_AO.db -i data/raw-data/BPS/
 -cdt output/cytoscape_nodes_bisphenolS_AO.tsv
 -cne output/cytoscape_network_bisphenolS_AO.tsv
 -a data/AOPwiki/61-current-AO-25Aout2017.txt -cpu 8
@@ -234,7 +234,7 @@ Command to launch an analyze on BPS reviews including Comparative
 Toxicogenomics Database diseases vocabulary file:
 
  ```text
- python3 aop_finder.py -d database/bisphenolS.db -i data/raw-data/BPS/
+ python3 src/aop-helpFinder.py -d database/bisphenolS.db -i data/raw-data/BPS/
 -cdt output/cytoscape_nodes_bisphenolS.tsv
 -cne output/cytoscape_network_bisphenolS.tsv
 -a data/AOPwiki/61-current-AO-25Aout2017.txt 
