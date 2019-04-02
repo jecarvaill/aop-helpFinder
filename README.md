@@ -248,3 +248,14 @@ This program is under the GNU GPLv3 licence, which means that anyone who
 distributes this code or a derivative work has to make the source available under 
 the same terms, and also provides an express grant of patent rights from 
 contributors to users.
+
+## Citation
+If you use our code for research, please cite our paper:
+```text
+@article{carvaillo2019linking,
+  title={Linking Bisphenol S to Adverse Outcome Pathways using a combined text mining and systems biology approach},
+  author={Carvaillo JC., Barouki R., Coumoul X., Audouze K.},
+  journal={Environmental Health Perspectives DOI:10.1289/EHP4200},
+  year={2019}
+}
+```
